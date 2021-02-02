@@ -1,0 +1,151 @@
+
+<style>
+   		body {
+			margin-top: 0em;
+			margin-left: 23%;
+			margin-right: 23%;
+		}
+
+		h1   {
+			color: black;
+			text-align: left;
+			margin-left: 13%;
+			font-family: Courier New;
+			font-weight: 600;
+			text-transform: uppercase;
+			font-size: 12pt;
+			margin-bottom: 1em;
+			background-color: yellow;
+		}
+		h2   {
+			color: black;
+			text-align: left;
+			margin-left: 23%;
+			font-family: Courier New;
+			font-weight: normal;
+			text-transform: uppercase;
+			font-size: 10pt;
+			margin-bottom: ;
+			background-color: ;
+		}
+
+		a:link	{
+			color: grey;
+		}
+
+		a:visited	{
+			color: grey;
+		}
+		p    {
+			font-family: Courier New;
+			margin-left: 23%;
+			margin-right: 23%;
+			margin-top: 1em;
+			font-size: 10pt;
+		}
+		mark	{
+			background-color: yellow;
+		}
+		strong {
+			font-weight: normal;
+			text-transform: uppercase;
+		}
+		table	{
+			font-family: Courier New;
+			margin-left: 23%;
+			margin-right: 23%;
+			margin-top: 1em;
+			border-spacing: 2px;
+			font-size: 10pt;
+		}
+		th, td, tr {
+  			padding: 2px;
+  			min-width: 170px;
+  			text-align: top;
+  			text-align: left;
+  			float: top;
+  			vertical-align: top;
+		}
+		th {
+			text-transform: uppercase;
+		}
+		img {
+			width:13vw;
+			padding:0px;
+		}
+		#leftimg{
+			margin-left: 23%;
+		}
+		iframe {
+			padding: 5px;
+		}
+		input, textarea {
+  			max-width:100%
+		}
+		header	{
+			justify-content: space-between;
+			align-items: flex-start;
+			flex-direction: column;
+			position: sticky;
+			top: 0;
+			padding: 30px 0 20px;
+			background: rgba(255,255,255,0.95);
+			z-index: 100;
+			text-align: left;
+			margin-left: 23%;
+			margin-right: 23%;
+			word-spacing: 200%;
+			font-family: Courier New;
+			font-weight: normal;
+			font-size: 12pt;
+			text-transform: uppercase;
+			margin-bottom: 4em;
+		}
+		footer {
+    		overflow: hidden;
+        	overflow-x: hidden;
+        	overflow-y: hidden;
+    		display: block;
+    		padding-bottom: 1rem;
+    		margin-left: 23%;
+    		margin-right: 23%;
+		}
+		@media screen and (max-width: 800px) {
+/* applies only if the screen is narrower than 500px */
+  		header {
+    		position: static;
+    		margin-left: 0;
+    		margin-right: 0;
+    		text-align: justify;
+    		text-justify: inter-word;
+    		max-width: 1vw;
+    		padding: 20px 0 10px;
+    		margin-bottom: 2em;
+  		}
+		footer::before {
+    		margin-left: 0;
+    		margin-right: 0;
+		}
+		p    {
+			margin-left: 0;
+			margin-right: 0;
+		}
+
+		table	{
+			margin-left: 0;
+			margin-right: 0;
+		}
+		th, td, tr {
+  			min-width: 16ch;
+  		}
+		h2   {
+			margin-left: 0;
+		}
+		img {
+			width: 25vw;
+		}
+		#leftimg{
+			margin-left: 0%;
+		}
+	}
+</style> 
