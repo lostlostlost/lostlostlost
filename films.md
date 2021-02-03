@@ -11,21 +11,20 @@ layout: page
 2020 <br>
 <strong>Into the Wild</strong>, 16mm/digital, silent, 5min <br>
 
-2019 <br>
+2018 <br>
 <strong>Blätter im Herbst / Leaves in Autumn</strong>, 16mm, silent, 4min <br>
 Screenings: Austrian Filmmuseum, Vienna; Fracto, Berlin.
 
-2018 <br>
 <strong>Mountain View</strong>, 16mm/digital, silent, 3min <br>
 Screenings: Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.
 
+2017 <br>
 <strong>I am not there</strong>, 16mm, silent, 3min <br>
 Screenings: Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Shot Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.
 
 <strong>As you are coming closer</strong>, 16mm, silent, 3min <br>
 Screenings: Analogica, Italy; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow; Metro Kino, Vienna. 
 
-2017 <br>
 <strong>Connect Cuba</strong>, Video, Spanish/English, 8min<br>
 
 2016 <br>
