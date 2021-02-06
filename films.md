@@ -9,31 +9,31 @@ layout: page
 # Films
 
 2020 <br>
-<strong>Into the Wild</strong>, 16mm/digital, silent, 5min <br>
+<strong>Into the Wild</strong>, 16mm/digital, b/w and colour, silent, 5min <br>
 
 2018 <br>
-<strong>Blätter im Herbst / Leaves in Autumn</strong>, 16mm, silent, 4min <br>
+<strong>Blätter im Herbst / Leaves in Autumn</strong>, 16mm, colour, silent, 4min <br>
 Screenings: Austrian Filmmuseum, Vienna; Fracto, Berlin.
 
-<strong>Mountain View</strong>, 16mm/digital, silent, 3min <br>
-Screenings: Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.
+<strong>Mountain View</strong>, 16mm/digital, colour, silent, 3min <br>
+Screenings: At the Fringe, Sweden; Festival ECRA, Rio de Janeiro; Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.
 
 2017 <br>
-<strong>I am not there</strong>, 16mm, silent, 3min <br>
-Screenings: Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Shot Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.
+<strong>I am not there</strong>, 16mm, colour, sound, 3min <br>
+Screenings: Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Short Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.
 
-<strong>As you are coming closer</strong>, 16mm, silent, 3min <br>
+<strong>As you are coming closer</strong>, 16mm, colour, silent, 3min <br>
 Screenings: Analogica, Italy; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow; Metro Kino, Vienna. 
 
-<strong>Connect Cuba</strong>, Video, Spanish/English, 8min<br>
+<strong>Connect Cuba</strong>, Video, colour, Spanish/English, 8min<br>
 
 2016 <br>
-<strong>Concrete Ghosts</strong>, 16mm, silent, 6min <br>
+<strong>Concrete Ghosts</strong>, 16mm, colour, silent, 6min <br>
 Screenings: Dotdotdot Short Film Festival, Cinema Walk, Vienna; Process Experimental Filmfestival, Riga; Embobada, Brussels; School Friedl Kubelka for Independent Film, Vienna.
 
-<strong>Silent Reflections / Reflections on Silence #1</strong>, Video, no dialogue, 6min <br>
+<strong>Silent Reflections / Reflections on Silence #1</strong>, Video, colour, sound, 6min <br>
 Screenings: ICDOCS, Iowa; Ethnocineca, Vienna.
 
 2015 <br>
-<strong>Nicht-Orte. Eine Ethnologie der Einsamkeit</strong>, Video, German, 30min <br>
+<strong>Nicht-Orte. Eine Ethnologie der Einsamkeit</strong>, Video, colour, German, 30min <br>
 Screenings: Okto.tv, Vienna.
