@@ -13,7 +13,7 @@
 			font-family: Courier New;
 			font-weight: 600;
 			text-transform: uppercase;
-			font-size: 12pt;
+			font-size: 1.1vw;
 			margin-bottom: 1em;
 			background-color: yellow;
 		}
@@ -24,7 +24,7 @@
 			font-family: Courier New;
 			font-weight: normal;
 			text-transform: uppercase;
-			font-size: 10pt;
+			font-size: 0.9vw;
 			margin-bottom: ;
 			background-color: ;
 		}
@@ -41,7 +41,7 @@
 			margin-left: 23vw;
 			max-width: 50vw;
 			margin-top: 1em;
-			font-size: 10pt;
+			font-size: 0.9vw;
 		}
 		mark	{
 			background-color: yellow;
@@ -56,7 +56,7 @@
 			max-width: 50vw;
 			margin-top: 1em;
 			border-spacing: 2px;
-			font-size: 10pt;
+			font-size: 0.9vw;
 		}
 		th, td, tr {
   			padding: 2px;
@@ -93,10 +93,10 @@
 			z-index: 100;
 			text-align: left;
 			margin-left: 23vw;
-			word-spacing: 1vw;
+			word-spacing: 0.65vw;
 			font-family: Courier New;
 			font-weight: normal;
-			font-size: 12pt;
+			font-size: 1.1vw;
 			text-transform: uppercase;
 			margin-bottom: 4em;
 		}
