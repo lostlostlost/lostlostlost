@@ -39,7 +39,7 @@
 		p    {
 			font-family: Courier New;
 			margin-left: 23%;
-			margin-right: 23%;
+			max-width: 50vw;
 			margin-top: 1em;
 			font-size: 10pt;
 		}
@@ -53,7 +53,7 @@
 		table	{
 			font-family: Courier New;
 			margin-left: 23%;
-			margin-right: 23%;
+			max-width: 50vw;
 			margin-top: 1em;
 			border-spacing: 2px;
 			font-size: 10pt;
@@ -93,8 +93,7 @@
 			z-index: 100;
 			text-align: left;
 			margin-left: 23%;
-			margin-right: 23%;
-			word-spacing: 200%;
+			word-spacing: 1vw;
 			font-family: Courier New;
 			font-weight: normal;
 			font-size: 12pt;
@@ -108,7 +107,7 @@
     		display: block;
     		padding-bottom: 1rem;
     		margin-left: 23%;
-    		margin-right: 23%;
+    		max-width: 50vw;
 		}
 		@media screen and (max-width: 800px) {
 /* applies only if the screen is narrower than 500px */
