@@ -6,13 +6,13 @@ I am an experimental filmmaker, projectionist and lecturer in media theory, spat
 
 If you wanna get in touch, write me a <a href="mailto:lostlostlost@posteo.net">mail</a>
 
-<img src="/assets/img/CosmaGrosser_Projektionist.JPG" alt="Cosma Grosser" title="Projektionist" width="1000" />
+<img src="/assets/img/CosmaGrosser_Projektionist.JPG" alt="Cosma Grosser" title="Projektionist" style="width:50vw" />
 Photo: Cosma Grosser
 
-# Blog
+<!-- # Blog
 
 {% for post in site.posts %}
 
 <a href="{{ post.url }}">{{post.title}}</a><br>
 
-{% endfor %}
+{% endfor %} -->
