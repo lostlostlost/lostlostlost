@@ -83,6 +83,10 @@ layout: page
     <th style="text-align: left;">Training</th>
     <th></th>
   </tr>
+    <tr>
+  	<td>2020</td>
+    <td><strong>CS50,</strong> Introduction to Computer Science, Harvard Online</td>
+  </tr>
   <tr>
   	<td>2019</td>
     <td><strong>Film Farm Independent Imaging Retreat,</strong> Canada</td>
@@ -118,5 +122,40 @@ layout: page
   <tr> 
   	<td></td>
     <td><strong>VHS Film and Media Center,</strong> Camera, Directing, Light, Script writing</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="text-align: left;">Skills</th>
+    <th></th>
+  </tr>
+  <tr>
+  	<td>Editing</td>
+    <td><strong>Final Cut Pro X</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>Davinci Resolve</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>ffmpeg</strong></td>
+  </tr>
+  <tr>
+  	<td>Coding Basics</td>
+    <td><strong>Unix Commandline/Bash Scripting/rsync/borgbackup</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>HTML/CSS</strong></td>
+  </tr>
+  <tr> 
+  	<td></td>
+    <td><strong>Python</strong></td>
+  </tr>
+  <tr> 
+  	<td></td>
+    <td><strong>Latex/Markdown/Pandoc</strong></td>
   </tr>
 </table>
