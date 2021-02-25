@@ -144,7 +144,7 @@ layout: page
   </tr>
   <tr>
   	<td>Coding Basics</td>
-    <td><strong>Unix Commandline/Bash Scripting/rsync/borgbackup</strong></td>
+    <td><strong>Bash</strong></td>
   </tr>
   <tr>
   	<td></td>
