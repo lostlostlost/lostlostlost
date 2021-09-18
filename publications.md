@@ -4,7 +4,7 @@ layout: page
 # Publications
 
 <strong>Zen and the Art of Film Projection</strong><br>
-Analog Cookbook Issue 4, 2021.
+<a href="https://analog-cookbook.myshopify.com/" rel="noopener noreferrer" target="_blank">Analog Cookbook Issue 4</a>, 2021.
 
 <strong>Rethinking the City as a Body without Organs</strong><br>
 <a href="https://www.jstor.org/stable/10.3366/j.ctt1bh2hh5" rel="noopener noreferrer" target="_blank">Deleuze and the City</a>, Edinburgh University Press, 2016.
