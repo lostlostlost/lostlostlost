@@ -85,11 +85,11 @@ layout: page
   </tr>
     <tr>
   	<td>2021</td>
-    <td><strong>Biennial Audiovisual Archival Summer School</strong> FIAF, Online</td>
+    <td><strong>FIAF Biennial Audiovisual Archival Summer School,</strong> Online</td>
     </tr>
     <tr>
   	<td></td>
-    <td><strong>Digital Archives,</strong> FIAF Summerschool, Berlin/Babelsberg</td>
+    <td><strong>FIAF Digital Archives Summer School,</strong> Berlin/Babelsberg</td>
     </tr>
   <tr>
   </tr>
