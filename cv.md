@@ -84,6 +84,16 @@ layout: page
     <th></th>
   </tr>
     <tr>
+  	<td>2021</td>
+    <td><strong>Biennial Audiovisual Archival Summer School</strong> FIAF, Online</td>
+    </tr>
+    <tr>
+  	<td></td>
+    <td><strong>Digital Archives,</strong> FIAF Summerschool, Berlin/Babelsberg</td>
+    </tr>
+  <tr>
+  </tr>
+    <tr>
   	<td>2020</td>
     <td><strong>CS50,</strong> Introduction to Computer Science, Harvard Online</td>
   </tr>

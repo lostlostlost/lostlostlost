@@ -7,19 +7,27 @@ layout: page
 
 # Films
 
+2021 <br>
+<strong>10 megabytes of memory</strong>, digital (from Video8), colour, silent, 2min <br>
+Screenings: Small File Media Festival, Vancouver; dot dot dot - Open Air Kurzfilmfestival, Vienna.
+
 2020 <br>
 <strong>Into the Wild</strong>, 16mm/digital, b/w and colour, silent, 5min <br>
+Screenings: Bogotá Experimental Film Festival; Diagonale, Graz; Vienna Shorts Film Festival, Vienna. <br>
+Distribution: Light Cone / CFMDC
 
 2018 <br>
 <strong>Blätter im Herbst / Leaves in Autumn</strong>, 16mm, colour, silent, 4min <br>
 Screenings: Austrian Filmmuseum, Vienna; Fracto, Berlin.
 
 <strong>Mountain View</strong>, 16mm/digital, colour, silent, 3min <br>
-Screenings: At the Fringe, Sweden; Festival ECRA, Rio de Janeiro; Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.
+Screenings: At the Fringe, Sweden; Festival ECRA, Rio de Janeiro; Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.<br>
+Distribution: Light Cone
 
 2017 <br>
 <strong>I am not there</strong>, 16mm, colour, sound, 3min <br>
-Screenings: Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Short Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.
+Screenings: Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Short Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.<br>
+Distribution: Light Cone
 
 <strong>As you are coming closer</strong>, 16mm, colour, silent, 3min <br>
 Screenings: Analogica, Italy; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow; Metro Kino, Vienna. 
