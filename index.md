@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am an experimental filmmaker, projectionist and lecturer in media theory, spatial theory and artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics. The aspect of sharing and open source technology in the analogue world also brought me to computers, code and free software.
+I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage with jekyll
 
 If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net">mail</a>
 

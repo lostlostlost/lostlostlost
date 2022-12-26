@@ -13,12 +13,12 @@ layout: page
     <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection / Film Education</td>
   </tr>
   <tr>
-    <td>2016-ongoing</td>
-    <td><strong>TU Vienna, Institute of Sociology.</strong> Lecturer</td>
+    <td>2016-2020</td>
+    <td><strong>TU Vienna, Institute of Sociology.</strong> Lecturer Artistic Research</td>
   </tr>
   <tr>
     <td></td>
-    <td><strong>filmkoop wien.</strong> Board member </td>
+    <td><strong>filmkoop wien.</strong> Board, Curation, Projection </td>
   </tr>
   <tr>
     <td>2016-2018</td>
@@ -30,7 +30,7 @@ layout: page
   </tr>
   <tr>
     <td></td>
-    <td><strong>University of Vienna, Theatre, Film and Media Studies.</strong> Lecturer </td>
+    <td><strong>University of Vienna, Theatre, Film and Media Studies.</strong> Lecturer Artistic Research</td>
   </tr>
   <tr> 
     <td></td>
@@ -61,7 +61,7 @@ layout: page
   </tr>
   <tr>
     <td>2016-2018</td>
-    <td><strong>MA Theater, Film und Media Studies.</strong> University of Vienna</td>
+    <td><strong>Theater, Film und Media Studies.</strong> University of Vienna</td>
   </tr>
   <tr>
     <td>2015-2017</td>
@@ -76,13 +76,28 @@ layout: page
     <td>2004-2008</td>
     <td><strong>BA Sociology.</strong> KF University, Graz</td>
   </tr>
-</table> 
+</table>
 
 <table>
   <tr>
-    <th style="text-align: left;">Training</th>
+    <th style="text-align: left;">Grants and Residencies</th>
     <th></th>
   </tr>
+   <tr>
+    <td>2022</td>
+    <td><strong>Working Grant for Filmmakers,</strong>Cultural Commission, Carinthia</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td><strong>Artist Residency,</strong> Medienfrische Tirol</td>
+    </tr>
+    <tr>
+    <td>2021</td>
+    <td><strong>Working Grant for Filmmakers,</strong>Ministry of Culture, Austria<</td>
+    </tr>
+  </table>
+
+<table>
     <tr>
   	<td>2021</td>
     <td><strong>FIAF Biennial Audiovisual Archival Summer School,</strong> Online</td>
@@ -91,8 +106,6 @@ layout: page
   	<td></td>
     <td><strong>FIAF Digital Archives Summer School,</strong> Berlin/Babelsberg</td>
     </tr>
-  <tr>
-  </tr>
     <tr>
   	<td>2020</td>
     <td><strong>CS50,</strong> Introduction to Computer Science, Harvard Online</td>

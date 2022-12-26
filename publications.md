@@ -3,6 +3,9 @@ layout: page
 ---
 # Publications
 
+<strong>Picturing Austrian Cinema</strong> (Bildredaktion)<br>
+Hg.: Katharina Müller und Claus Philipp, <a href="https://spectorbooks.com/picturing-austrian-cinema-de" rel="noopener noreferrer" target="_blank">Spector Books</a>, 2022.
+
 <strong>Zen and the Art of Film Projection</strong><br>
 <a href="https://analog-cookbook.myshopify.com/" rel="noopener noreferrer" target="_blank">Analog Cookbook Issue 4</a>, 2021.
 
@@ -16,6 +19,9 @@ layout: page
 <a href="https://www.wohnbauforschung.at/index.php?id=446" rel="noopener noreferrer" target="_blank">Wiener Wohnbauforschungstage</a>, Vienna, 2011.
 
 # Conference Papers
+
+<strong>The Cinema of Abstractions. Photochemical Film in the Age of the Computer</strong><br>
+Conference: The Shifting Ecologies of Photochemical Film in the Digital Era, Online, 2021
 
 <strong>Going down the drain: The biopolitics of sewage in Vienna</strong><br>
 <a href="https://ethz.ch/content/dam/ethz/special-interest/arch/ncl/eth-case-dam/documents/veranstaltungen/2015/assembling-cities-conference-sts-theories-and-methodologies-in-planning-studies/assemblingcities_flyer_a4_druckauflage60.pdf" rel="noopener noreferrer" target="_blank">Conference: Assembling Cities</a>, Zurich, 2015.
