@@ -137,20 +137,21 @@
 		p    {
 			margin-left: 0;
 			margin-right: 0;
-			max-width: 500vw;
-			font-size: 4vw;
+			font-size: 2vw;
 		}
 
 		table	{
 			margin-left: 0;
 			margin-right: 0;
-			font-size: 4vw;
+			font-size: 2vw;
 		}
 		th, td, tr {
   			min-width: 16ch;
   		}
 		h1   {
 			margin-left: 0;
+			max-width: 500vw;
+			font-size: 4vw;
 		}
 		img {
 			width: 25vw;
