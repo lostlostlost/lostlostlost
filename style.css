@@ -8,7 +8,8 @@
 		h1   {
 			color: white;
 			text-align: left;
-			margin-left: 13vw;
+			margin-left: 0vw;
+			margin-right: 23vw;
 			max-width: 50vw;
 			font-family: Courier New;
 			font-weight: 400;
@@ -119,7 +120,7 @@
     		text-align: justify;
     		text-justify: inter-word;
     		max-width: 1vw;
-    		font-size: 1vw;
+    		font-size: 2vw;
     		padding: 20px 0 10px;
     		margin-bottom: 2em;
   		}
@@ -135,7 +136,7 @@
 		p    {
 			margin-left: 0;
 			margin-right: 0;
-			font-size: 1vw;
+			max-width: 500vw;
 		}
 
 		table	{
