@@ -5,16 +5,16 @@ layout: page
 # Installations
 
 2022<br>
-<strong> Lichtbild 4:3, </strong><br>
+<strong> Lichtbild 4:3, </strong>
 <a href="https://kulturhofvillach.at/events/2022/2022-11-26_vernissage_maicherplessl/" rel="noopener noreferrer" target="_blank">Schauraum</a>, Kulturhof Villach<br>
-<strong> Super8TV, </strong><br>
+<strong> Super8TV, </strong>
 <a href="https://www.viennaartweek.at/en/" rel="noopener noreferrer" target="_blank">Vienna Art Week</a>, Creative Cluster<br>
-<strong> Super8CCTV, </strong><br>
+<strong> Super8CCTV, </strong>
 <a href="https://kulturhofvillach.at/events/2022/2022-09-02_festival/Kulturhofkeller" rel="noopener noreferrer" target="_blank"> Kulturhof Festival</a>, Kulturhof Villach
 
 2019<br>
-<strong> Light Spills, </strong><br>
-<a href="https://www.filmkoopwien.at/de/fotowien/" rel="noopener noreferrer" target="_blank">Analog Layers Exhibition</a>, Foto Wien<br>
+<strong> Light Spills, </strong>
+<a href="https://www.filmkoopwien.at/de/fotowien/" rel="noopener noreferrer" target="_blank">Analog Layers Exhibition</a>, Foto Wien //
 <a href="https://www.analogmania.ro/Analog" rel="noopener noreferrer" target="_blank"> Analog Mania</a>, Rumania
 
 {% for file in site.static_files %}
