@@ -10,48 +10,72 @@ layout: page
 
 # Films
 
-2022 <br>
-<strong>Earth Water Motor</strong>, 16mm, b/w, silent, 4min <br>
+<strong><a href="films_ewm.html">Earth Water Motor</a></strong>, 2022, 16mm, b/w, silent, 4min <br>
 
-2021 <br>
-<strong>Memory Series</strong>, digital (from Video8), colour, silent, 7min <br>
-Screenings: Antimatter [Media Art], Canada; Diagonale, Graz; K3 Film Festival, Villach; Analog Mania, Rumania<br>
-Distribution: Light Cone
+<strong><a href="films_memoryseries.html">Memory Series</a></strong>, 2021, digital (from Video8), colour, silent, 7min <br>
 
-<strong>10 megabytes of memory</strong>, digital (from Video8), colour, silent, 2min <br>
-Screenings: Vienna Shorts Film Festival, Vienna; Split Videoart Festival; Under the Radar, Vienna; Small File Media Festival, Vancouver; dot dot dot Open Air Kurzfilmfestival, Vienna; Tranås at the Fringe, Sweden 
+<strong><a href="films_10mbofmemory.html">10 megabytes of memory</a></strong>, 2021, digital (from Video8), colour, silent, 2min <br>
 
-2020 <br>
-<strong>Into the Wild</strong>, 16mm/digital, b/w and colour, sound, 5min <br>
-Screenings: Istanbul International Experimental Film Festival, Turkey; Peripheries Experimental Film & Video Festival, USA; Chicago Underground Film Festival; Harkat 16mm Film Festival, Mumbai; Kinoskop – Analog Experimental Film Festival, Belgrade; Bogotá Experimental Film Festival; Diagonale, Graz; Vienna Shorts Film Festival, Vienna; Tranås at the Fringe, Sweden<br>
-Distribution: Light Cone, Canyon Cinema, CFMDC
+<strong><a href="films_intothewild.html">Into the Wild</a></strong>, 2020, 16mm/digital, b/w and colour, sound, 5min <br>
 
-2018 <br>
-<strong>Blätter im Herbst (Leaves in Autumn)</strong>, 16mm, colour, silent, 4min <br>
-Screenings:  Blickle Kino, Belvedere, Vienna; University of Chicago, USA; Austrian Filmmuseum, Vienna; Fracto, Berlin<br>
-Distribution: Light Cone, Canyon Cinema
+<strong><a href="films_blaetterimherbst.html">Blätter im Herbst (Leaves in Autumn)</a></strong>, 2018, 16mm, colour, silent, 4min <br>
 
-<strong>Mountain View</strong>, 16mm/digital, colour, silent, 3min <br>
-Screenings: ULTRAcinema, Mexico; Engauge Experimental Film Festival, USA; Analogica, Italy; Canyon New Acquisitions, Online; Metro Kinokulturhaus, Vienna; Tranås at the Fringe, Sweden; Festival ECRA, Rio de Janeiro; Austrian Filmmuseum, Vienna; K3 Film Festival, Villach; Cinemistica, Granada; DOBRA - Festival Internacional de Cinema Experimental, Brazil, VIS, Vienna; Alchemy Film and Moving Image Festival, Scotland; RPM Festival, Boston; Fracto, Berlin; Stadtkino im Künstlerhaus, Vienna.<br>
-Distribution: Light Cone, Canyon Cinema
+<strong><a href="films_mountainview.html">Mountain View</a></strong>, 2018, 16mm/digital, colour, silent, 3min <br>
 
-2017 <br>
-<strong>I am not there</strong>, 16mm, colour, sound, 3min <br>
-Screenings: Udine Film Forum, Italy; Analog Mania, Rumania; Experiments in Cinema, Albuquerque; Artifact Small Format Film Festival, Calgary; International Short Film Festival Oberhausen; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow.<br>
-Distribution: Light Cone, Canyon Cinema
+<strong><a href="films_iamnotthere.html">I am not there</a></strong>, 2017, 16mm, colour, sound, 3min <br>
 
-<strong>As you are coming closer</strong>, 16mm, colour, silent, 3min <br>
-Screenings: Syros International Film Festival, Greece; Analogica, Italy; Cinemistica, Granada; WestLicht/Diagonale, Vienna; MIEFF, Moscow; Metro Kino, Vienna. 
+<strong>As you are coming closer</strong>, 2017, 16mm, colour, silent, 3min <br> 
 
-<strong>Connect Cuba</strong>, Video, colour, Spanish/English, 8min<br>
+<strong>Connect Cuba</strong>, 2017, Video, colour, Spanish/English, 8min<br>
 
-2016 <br>
-<strong>Concrete Ghosts</strong>, 16mm, colour, silent, 6min <br>
-Screenings: dotdotdot Short Film Festival, Cinema Walk, Vienna; Process Experimental Filmfestival, Riga; Embobada, Brussels; School Friedl Kubelka for Independent Film, Vienna.
+<strong>Concrete Ghosts</strong>, 2016, 16mm, colour, silent, 6min <br>
 
-<strong>Silent Reflections / Reflections on Silence #1</strong>, Video, colour, sound, 6min <br>
-Screenings: ICDOCS, Iowa; Ethnocineca, Vienna.
+<strong>Silent Reflections / Reflections on Silence #1</strong>, 2016, Video, colour, sound, 6min <br>
 
-2015 <br>
-<strong>Nicht-Orte. Eine Ethnologie der Einsamkeit</strong>, Video, colour, German, 30min <br>
-Screenings: Okto.tv, Vienna.
+<strong>Nicht-Orte. Eine Ethnologie der Einsamkeit</strong>, 2015, Video, colour, German, 30min <br>
+
+
+# Screenings
+
+Alchemy Film and Moving Image Festival, Scotland <br>
+Analog Mania, Rumania <br>
+Antimatter [Media Art], Canada <br>
+Artifact Small Format Film Festival, Canada<br>
+Blickle Kino, Belvedere, Austria<br>
+Bogota Experimental Film Festival, Columbia<br>
+Canyon New Acquisitions, Online<br>
+Cinemistica, Spain<br>
+Chicago Underground Film Festival, USA<br>
+Diagonale, Austria<br>
+DOBRA - Festival Internacional de Cinema Experimental, Brasil<br>
+dot dot dot Open Air Short Film Festival, Austria<br>
+Engauge Experimental Film Festival, USA<br>
+Ethnocineca, Austria<br>
+Experiments in Cinema, USA<br>
+Festival ECRA, Brasil<br>
+Fracto, Germany<br>
+Harkat 16mm Film Festival, India<br>
+Iowa City Documentary Film Festival (ICDOCS), USA<br>
+International Short Film Festival Oberhausen, Germany<br>
+Istanbul International Experimental Film Festival, Turkey<br>
+K3 Film Festival, Austria<br>
+Kinoskop – Analog Experimental Film Festival, Serbia<br>
+Metro Kinokulturhaus, Austria<br>
+Moscow International Experimental Film Festival (MIEFF), Russia<br>
+Okto.tv, Austria<br>
+Austrian Filmmuseum, Austria<br>
+Peripheries Experimental Film & Video Festival, USA<br>
+Process Experimental Filmfestival, Latvia<br>
+Revolutions per Minute Festival, USA<br>
+School Friedl Kubelka for Independent Film, Austria<br>
+Small File Media Festival, Canada<br>
+Split Videoart Festival, Croatia<br>
+Stadtkino im Künstlerhaus, Austria<br>
+Syros International Film Festival (SIFF), Greece<br>
+Tranås at the Fringe, Sweden<br>
+Udine Film Forum, Italy<br>
+ULTRAcinema, Mexico<br>
+Under the Radar, Austria<br>
+University of Chicago, USA<br>
+Vienna Shorts Film Festival, Austria<br>
+WestLicht/Diagonale, Vienna<br>

@@ -8,7 +8,7 @@ I project Super8, 16mm and 35mm film as well as digital formats from the booth a
 
 <strong>Austrian Filmmuseum</strong>, Vienna<br>
 <strong>Blickle Kino, Belvedere 21</strong>, Vienna<br>
+<strong>Diagonale</strong>, Graz<br>
+<strong>filmkoop wien</strong>, Vienna
 <strong>Metro Kino Kulturhaus, Filmarchive Austria</strong>, Vienna<br>
 <strong>Viennale</strong>, Vienna<br>
-<strong>Diagonale</strong>, Graz<br>
-<strong>filmkoop wien</strong>

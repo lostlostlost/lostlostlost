@@ -70,7 +70,7 @@ layout: page
   <tr>
     <td>2008-2010</td>
     <td><strong>MA Urban Studies.</strong> „4Cities“ Brussels, Copenhagen, Madrid, Vienna<br>
-      <a href="https://www.4cities.eu/wp-content/uploads/2016/06/MAthesis_4CITIES_MAICHER_MARKUS_Cohort1.pdf" rel="noopener noreferrer" target="_blank">Thesis: The Mediated Square. On the Relation between the Public Square and the Media throughout History</a>, cum laude</td>
+      Thesis: The Mediated Square. On the Relation between the Public Square and the Media throughout History, cum laude</td>
   </tr>
   <tr> 
     <td>2004-2008</td>
