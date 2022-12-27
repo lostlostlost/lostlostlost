@@ -85,28 +85,32 @@ layout: page
   </tr>
    <tr>
     <td>2022</td>
-    <td><strong>Working Grant for Filmmakers,</strong>Cultural Commission, Carinthia</td>
-    </tr>
-    <tr>
+    <td><strong>Working Grant for Filmmakers,</strong> Cultural Commission, Carinthia</td>
+  </tr>
+  <tr>
     <td></td>
     <td><strong>Artist Residency,</strong> Medienfrische Tirol</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>2021</td>
-    <td><strong>Working Grant for Filmmakers,</strong>Ministry of Culture, Austria<</td>
-    </tr>
+    <td><strong>Working Grant for Filmmakers,</strong> Ministry of Culture, Austria<</td>
+  </tr>
   </table>
 
 <table>
-    <tr>
+   <tr>
+      <th style="text-align: left;">Training</th>
+      <th></th>
+  </tr>
+  <tr>
   	<td>2021</td>
     <td><strong>FIAF Biennial Audiovisual Archival Summer School,</strong> Online</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
   	<td></td>
     <td><strong>FIAF Digital Archives Summer School,</strong> Berlin/Babelsberg</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
   	<td>2020</td>
     <td><strong>CS50,</strong> Introduction to Computer Science, Harvard Online</td>
   </tr>
