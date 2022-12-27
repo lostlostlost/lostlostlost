@@ -4,7 +4,7 @@ layout: page
 # Curating
 
 2022<br>
-<strong>Blätter im Herbst</strong>, <a href="" target="_blank">Blickle Kino</a>, Belvedere 21, Vienna
+<strong>Blätter im Herbst</strong>, <a href="" target="_blank">Blickle Kino</a>, Vienna<br>
 <strong>Self-made, analog cinema!</strong>, <a href="" target="_blank">Waldarena Krumpendorf</a>
 
 2021<br>
