@@ -80,7 +80,7 @@ layout: page
 
 <table>
   <tr>
-    <th style="text-align: left;">Grants and Residencies</th>
+    <th style="text-align: left;">Grants/Residencies</th>
     <th></th>
   </tr>
    <tr>
@@ -93,7 +93,7 @@ layout: page
   </tr>
   <tr>
     <td>2021</td>
-    <td><strong>Working Grant for Filmmakers,</strong> Ministry of Culture, Austria<</td>
+    <td><strong>Working Grant for Filmmakers,</strong> Ministry of Culture, Austria</td>
   </tr>
   </table>
 
