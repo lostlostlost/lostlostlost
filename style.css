@@ -10,7 +10,7 @@
 			text-align: left;
 			margin-left: 0vw;
 			margin-right: 23vw;
-			max-width: 50vw;
+			max-width: 73vw;
 			font-family: Courier New;
 			font-weight: 400;
 			text-transform: uppercase;
@@ -120,13 +120,14 @@
     		text-align: justify;
     		text-justify: inter-word;
     		max-width: 1vw;
-    		font-size: 2vw;
+    		font-size: 4vw;
     		padding: 20px 0 10px;
     		margin-bottom: 2em;
   		}
 		footer {
     		margin-left: 0;
     		margin-right: 0;
+    		max-width: 500vw;
 		}
 		body {
 			margin-top: 0em;
@@ -137,11 +138,13 @@
 			margin-left: 0;
 			margin-right: 0;
 			max-width: 500vw;
+			font-size: 4vw;
 		}
 
 		table	{
 			margin-left: 0;
 			margin-right: 0;
+			font-size: 4vw;
 		}
 		th, td, tr {
   			min-width: 16ch;
