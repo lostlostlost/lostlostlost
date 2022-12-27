@@ -137,6 +137,7 @@
 		p    {
 			margin-left: 0;
 			margin-right: 0;
+			max-width: 500vw;
 			font-size: 2vw;
 		}
 
@@ -150,6 +151,7 @@
   		}
 		h1   {
 			margin-left: 0;
+			margin-right: 0vw;
 			max-width: 500vw;
 			font-size: 4vw;
 		}
