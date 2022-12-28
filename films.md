@@ -24,15 +24,13 @@ layout: page
 
 <strong><a href="films_iamnotthere.html">I am not there</a></strong>, 2017, 16mm, colour, sound, 3min <br>
 
-<strong>As you are coming closer</strong>, 2017, 16mm, colour, silent, 3min <br> 
+<strong><a href="films_asyouarecomingcloser.html">As you are coming closer</a></strong>, 2017, 16mm, colour, silent, 3min <br> 
 
-<strong>Connect Cuba</strong>, 2017, Video, colour, Spanish/English, 8min<br>
+<strong><a href="films_concreteghosts.html">Concrete Ghosts</a></strong>, 2016, 16mm, colour, silent, 6min <br>
 
-<strong>Concrete Ghosts</strong>, 2016, 16mm, colour, silent, 6min <br>
+<strong><a href="films_silentreflections.html">Silent Reflections / Reflections on Silence #1</a></strong>, 2016, Video, colour, sound, 6min <br>
 
-<strong>Silent Reflections / Reflections on Silence #1</strong>, 2016, Video, colour, sound, 6min <br>
-
-<strong>Nicht-Orte. Eine Ethnologie der Einsamkeit</strong>, 2015, Video, colour, German, 30min <br>
+<strong><a href="films_nichtorte.html">Nicht-Orte. Eine Ethnologie der Einsamkeit</a></strong>, 2015, Video, colour, German, 30min <br>
 
 
 # Screenings
@@ -79,3 +77,9 @@ Under the Radar, Austria<br>
 University of Chicago, USA<br>
 Vienna Shorts Film Festival, Austria<br>
 WestLicht/Diagonale, Vienna<br>
+
+# Distribution
+
+Canyon Cinema<br>
+CFMDC<br>
+Light Cone

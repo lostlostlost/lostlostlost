@@ -30,12 +30,23 @@
 			background-color: ;
 		}
 
-		a:link	{
-			color: grey;
+		a:link, a:visited	{
+			color: black;
+			text-decoration: none;
+		}
+		a:hover, a:active	{
+			color: white;
+			background-color: black;
 		}
 
-		a:visited	{
+		a.header:link, a.header:visited	{
 			color: grey;
+			text-decoration: underline;
+		}
+		a.header:hover, a.header:active	{
+			color: white;
+			text-decoration: underline;
+			background-color: lightgrey;
 		}
 		p    {
 			font-family: Courier New;
@@ -44,6 +55,7 @@
 			margin-top: 1em;
 			font-size: 0.8vw;
 		}
+
 		ul	{
 			margin-left: 23vw;
 			max-width: 50vw;
@@ -51,7 +63,9 @@
 			padding:0px;
 		}
 		mark	{
-			background-color: yellow;
+			background-color: black;
+			color: white;
+			text-transform: uppercase;
 		}
 		strong {
 			font-weight: normal;
@@ -106,6 +120,8 @@
 			font-weight: normal;
 			font-size: 1vw;
 			text-transform: uppercase;
+			text-transform: underline;
+			color: grey;
 			margin-bottom: 4em;
 		}
 		footer {
