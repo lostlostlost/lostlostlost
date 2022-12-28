@@ -102,6 +102,14 @@ layout: page
       <th style="text-align: left;">Training</th>
       <th></th>
   </tr>
+   <tr>
+    <td>2022</td>
+   <td><strong>CS50,</strong> Introduction to Programming with Python, Harvard Online</td>
+  </tr>
+     <tr>
+    <td></td>
+   <td><strong>AMIA</strong> Bash Scripting for Audiovisual Preservation</td>
+  </tr>
   <tr>
   	<td>2021</td>
     <td><strong>FIAF Biennial Audiovisual Archival Summer School,</strong> Online</td>
