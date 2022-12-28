@@ -141,13 +141,16 @@
   		header {
     		position: sticky;
     		margin-left: 0vw;
-    		margin-right: 0;
+    		margin-right: 0vw;
     		text-align: justify;
     		text-justify: inter-word;
     		max-width: 1vw;
     		font-size: 4vw;
     		padding: 20px 0 10px;
     		margin-bottom: 2em;
+    		color: white;
+    		background: lightgrey;
+
   		}
 		footer {
     		margin-left: 0vw;
@@ -176,7 +179,7 @@
 		}
 		th, td, tr {
 			padding: 2px;
-  			min-width: 18ch;
+  			min-width: 19ch;
   			text-align: top;
   			text-align: left;
   			float: top;
@@ -189,10 +192,14 @@
 			font-size: 4vw;
 		}
 		img {
-			width: 32vw;
+			width: 33vw;
+			margin-left: 0vw;
+			margin-right: 0vw;
 		}
 		img.solo {
 			width:100vw;
+			margin-left: 0vw;
+			margin-right: 0vw;
 		}	
 		ul	{
 			margin-left: 1vw;
