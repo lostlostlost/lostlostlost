@@ -16,7 +16,9 @@ Die Installation „Lichtbild, 4:3“ reduziert Film auf das Wesentlichste: Proj
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/lichtbild' %}
+    {% if image.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
 <img src="{{ image.path }}"/>
+    {% endif %}
     {% endif %}
 {% endfor %}
 </ul>
