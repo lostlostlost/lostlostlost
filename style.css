@@ -96,6 +96,7 @@
 		}
 		img.solo {
 			width:50vw;
+			padding:0px;
 		}
 		#leftimg{
 			margin-left: 23vw;
@@ -139,7 +140,7 @@
 		@media screen and (max-width: 500px) {
 /* applies only if the screen is narrower than 500px */
   		header {
-    		position: sticky;
+    		position: static;
     		margin-left: 0vw;
     		margin-right: 0vw;
     		text-align: justify;
@@ -148,8 +149,6 @@
     		font-size: 4vw;
     		padding: 20px 0 10px;
     		margin-bottom: 2em;
-    		text-color: white;
-    		text-background: lightgrey;
   		}
 		footer {
     		margin-left: 0vw;
@@ -192,13 +191,11 @@
 		}
 		img {
 			width: 30vw;
-			margin-left: 1vw;
-			margin-right: 1vw;
 		}
 		img.solo {
-			width:100vw;
-			margin-left: 1vw;
-			margin-right: 1vw;
+			width: 100vw;
+			margin-left: 0vw;
+			margin-right: 0vw;
 		}	
 		ul	{
 			margin-left: 1vw;
