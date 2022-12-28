@@ -148,9 +148,8 @@
     		font-size: 4vw;
     		padding: 20px 0 10px;
     		margin-bottom: 2em;
-    		color: white;
-    		background: lightgrey;
-
+    		text-color: white;
+    		text-background: lightgrey;
   		}
 		footer {
     		margin-left: 0vw;
@@ -192,14 +191,14 @@
 			font-size: 4vw;
 		}
 		img {
-			width: 33vw;
-			margin-left: 0vw;
-			margin-right: 0vw;
+			width: 30vw;
+			margin-left: 1vw;
+			margin-right: 1vw;
 		}
 		img.solo {
 			width:100vw;
-			margin-left: 0vw;
-			margin-right: 0vw;
+			margin-left: 1vw;
+			margin-right: 1vw;
 		}	
 		ul	{
 			margin-left: 1vw;
