@@ -13,5 +13,5 @@ I project Super8, 16mm and 35mm film as well as digital formats from the booth a
 <strong>Metro Kino Kulturhaus, Filmarchive Austria</strong>, Vienna<br>
 <strong>Viennale</strong>, Vienna<br>
 
-<img src="/assets/img/projection/CosmaGrosser_Projektionist.JPG" alt="Cosma Grosser" title="Projektionist" style="width:50vw" /><br>
+<img class="solo" src="/assets/img/projection/CosmaGrosser_Projektionist.JPG" alt="Cosma Grosser" title="Projektionist"/><br>
 Photo: <a href="https://www.cosmagrosser.com" rel="noopener noreferrer" target="_blank">Cosma Grosser</a>

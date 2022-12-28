@@ -94,6 +94,9 @@
 			width:16vw;
 			padding:0px;
 		}
+		img.solo {
+			width:50vw;
+		}
 		#leftimg{
 			margin-left: 23vw;
 		}
@@ -136,7 +139,7 @@
 		@media screen and (max-width: 500px) {
 /* applies only if the screen is narrower than 500px */
   		header {
-    		position: static;
+    		position: sticky;
     		margin-left: 0vw;
     		margin-right: 0;
     		text-align: justify;
@@ -186,11 +189,11 @@
 			font-size: 4vw;
 		}
 		img {
-			width: 30vw;
+			width: 32vw;
 		}
-		#leftimg{
-			margin-left: 0%;
-		}
+		img.solo {
+			width:100vw;
+		}	
 		ul	{
 			margin-left: 1vw;
 			max-width: 500vw;
