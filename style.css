@@ -137,7 +137,7 @@
 /* applies only if the screen is narrower than 500px */
   		header {
     		position: static;
-    		margin-left: 1;
+    		margin-left: 1vw;
     		margin-right: 0;
     		text-align: justify;
     		text-justify: inter-word;
@@ -147,25 +147,25 @@
     		margin-bottom: 2em;
   		}
 		footer {
-    		margin-left: 1;
+    		margin-left: 0vw;
     		margin-right: 0;
     		max-width: 500vw;
 		}
 		body {
 			margin-top: 0em;
 			margin-left: 1vw;
-			margin-right: 0vw;
+			margin-right: 1vw;
 		}
 		p    {
-			margin-left: 1;
-			margin-right: 0;
+			margin-left: 1vw;
+			margin-right: 1vw;
 			max-width: 500vw;
 			font-size: 2vw;
 		}
 
 		table	{
-			margin-left: 1;
-			margin-right: 0;
+			margin-left: 1vw;
+			margin-right: 1vw;
 			max-width: 500vw;
 			margin-top: 1em;
 			border-spacing: 2px;
@@ -179,9 +179,8 @@
   			float: top;
   			vertical-align: top;
   		}	
-  		
 		h1   {
-			margin-left: 1;
+			margin-left: 0vw;
 			margin-right: 0vw;
 			max-width: 500vw;
 			font-size: 4vw;
