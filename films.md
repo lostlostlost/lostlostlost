@@ -12,6 +12,8 @@ layout: page
 
 <strong><a href="films_ewm.html">Earth Water Motor</a></strong>, 2022, 16mm, b/w, silent, 4min <br>
 
+<strong><a href="https://vimeo.com/784516907" rel="noopener noreferrer" target="_blank">K3 Film Festival Trailer</a></strong>, 2022, digital, colour, sound, 1min <br>
+
 <strong><a href="films_memoryseries.html">Memory Series</a></strong>, 2021, digital (from Video8), colour, silent, 7min <br>
 
 <strong><a href="films_10mbofmemory.html">10 megabytes of memory</a></strong>, 2021, digital (from Video8), colour, silent, 2min <br>
@@ -39,6 +41,7 @@ Alchemy Film and Moving Image Festival, Scotland <br>
 Analog Mania, Rumania <br>
 Antimatter [Media Art], Canada <br>
 Artifact Small Format Film Festival, Canada<br>
+Austrian Filmmuseum, Austria<br>
 Blickle Kino, Belvedere, Austria<br>
 Bogota Experimental Film Festival, Columbia<br>
 Canyon New Acquisitions, Online<br>
@@ -61,7 +64,6 @@ Kinoskop – Analog Experimental Film Festival, Serbia<br>
 Metro Kinokulturhaus, Austria<br>
 Moscow International Experimental Film Festival (MIEFF), Russia<br>
 Okto.tv, Austria<br>
-Austrian Filmmuseum, Austria<br>
 Peripheries Experimental Film & Video Festival, USA<br>
 Process Experimental Filmfestival, Latvia<br>
 Revolutions per Minute Festival, USA<br>
@@ -76,10 +78,10 @@ ULTRAcinema, Mexico<br>
 Under the Radar, Austria<br>
 University of Chicago, USA<br>
 Vienna Shorts Film Festival, Austria<br>
-WestLicht/Diagonale, Vienna<br>
+WestLicht, Austria<br>
 
 # Distribution
 
-Canyon Cinema<br>
+<a href="https://canyoncinema.com/catalog/filmmaker/?i=494" rel="noopener noreferrer" target="_blank">Canyon Cinema</a><br>
 CFMDC<br>
-Light Cone
+<a href="https://lightcone.org/fr/cineaste-15263-markus-maicher" rel="noopener noreferrer" target="_blank">Light Cone</a>
