@@ -13,12 +13,12 @@ layout: page
     <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection / Film Education</td>
   </tr>
   <tr>
-    <td>2016-2020</td>
-    <td><strong>TU Vienna, Institute of Sociology.</strong> Lecturer Artistic Research</td>
+    <td>2016-ongoing</td>
+    <td><strong>filmkoop wien.</strong> Board, Curation, Projection </td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>filmkoop wien.</strong> Board, Curation, Projection </td>
+    <td>2016-2020</td>
+    <td><strong>TU Vienna, Institute of Sociology.</strong> Lecturer Artistic Research</td>
   </tr>
   <tr>
     <td>2016-2018</td>
