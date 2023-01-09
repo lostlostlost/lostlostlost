@@ -11,7 +11,7 @@ layout: page
 
 <strong><a href="https://www.filmmuseum.at/kinoprogramm/schiene?schienen_id=1571968231436" rel="noopener noreferrer" target="_blank">10 years filmkoop wien</a></strong>, Austrian Filmmuseum, 2019<br>
 
-<strong><a href="https://www.filmkoopwien.at/de/10-jahre-dotdotdot-open-air-kurzfilmfestival-10-jahre-filmkoop-wien/" rel="noopener noreferrer" target="_blank">10 years dotdotdot Open Air Kurzfilmfestival // 10 years filmkoop wien</a></strong>, Cinema Walk, 2019<br>
+<strong><a href="https://www.filmkoopwien.at/de/10-jahre-dotdotdot-open-air-kurzfilmfestival-10-jahre-filmkoop-wien/" rel="noopener noreferrer" target="_blank">10 years dotdotdot Open Air Kurzfilmfestival</a></strong>, Cinema Walk, 2019<br>
 
 <strong><a href="https://www.filmkoopwien.at/de/filmkoop-wien-spaetsommerfest/" rel="noopener noreferrer" target="_blank">filmkoop wien</a></strong>, Sommerfest, 2018<br>
 

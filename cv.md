@@ -9,12 +9,20 @@ layout: page
     <th></th>
   </tr>
   <tr>
-    <td>2018-ongoing</td>
-    <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection / Film Education</td>
+    <td>Current</td>
+    <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection, Film Education</td>
   </tr>
   <tr>
-    <td>2016-ongoing</td>
+    <td></td>
     <td><strong>filmkoop wien.</strong> Board, Curation, Projection </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Viennale.</strong> Projection </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Diagonale.</strong> Projection </td>
   </tr>
   <tr>
     <td>2016-2020</td>
@@ -26,7 +34,7 @@ layout: page
   </tr>
   <tr>
     <td>2016-2017</td>
-    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Projection / Analogue film workshops </td>
+    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Projection, Analogue film workshops </td>
   </tr>
   <tr>
     <td></td>
@@ -69,8 +77,7 @@ layout: page
   </tr>
   <tr>
     <td>2008-2010</td>
-    <td><strong>MA Urban Studies.</strong> „4Cities“ Brussels, Copenhagen, Madrid, Vienna<br>
-      Thesis: The Mediated Square. On the Relation between the Public Square and the Media throughout History, cum laude</td>
+    <td><strong>MA Urban Studies, „4Cities“.</strong> Brussels, Copenhagen, Madrid, Vienna. cum laude.<br></td>
   </tr>
   <tr> 
     <td>2004-2008</td>
@@ -85,7 +92,7 @@ layout: page
   </tr>
    <tr>
     <td>2022</td>
-    <td><strong>Working Grant for Filmmakers,</strong> Cultural Commission, Carinthia</td>
+    <td><strong>Working Grant for Filmmakers,</strong> Regional Ministry for Culture, Carinthia</td>
   </tr>
   <tr>
     <td></td>
@@ -93,7 +100,7 @@ layout: page
   </tr>
   <tr>
     <td>2021</td>
-    <td><strong>Working Grant for Filmmakers,</strong> Ministry of Culture, Austria</td>
+    <td><strong>Working Grant for Filmmakers,</strong> Federal Ministry for Arts and Culture, Austria</td>
   </tr>
   </table>
 

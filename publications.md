@@ -24,8 +24,6 @@ Wiener Wohnbauforschungstage, Vienna, 2011.
 <strong>The Cinema of Abstractions. Photochemical Film in the Age of the Computer</strong><br>
 Conference: The Shifting Ecologies of Photochemical Film in the Digital Era, Online, 2021
 
-<strong>Raum.Projektionen. Die Stadt und das Kino als epistemologische Maschinen,</strong> <a href="https://sektionstadtforschung.wordpress.com/startseite/" rel="noopener noreferrer" target="_blank">ÖGS Sektion Stadtforschung</a>, Art-Based Research in der Stadt- und Raumforschung, 2021<br>
-
 <strong><a href="https://ethz.ch/content/dam/ethz/special-interest/arch/ncl/eth-case-dam/documents/veranstaltungen/2015/assembling-cities-conference-sts-theories-and-methodologies-in-planning-studies/assemblingcities_flyer_a4_druckauflage60.pdf" rel="noopener noreferrer" target="_blank">Going down the drain: The biopolitics of sewage in Vienna</a></strong><br>
 Conference: Assembling Cities, Zurich, 2015.
 

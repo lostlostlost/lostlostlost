@@ -1,0 +1,90 @@
+
+<style>
+		body {
+			margin-top: 0cm;
+			margin-left: 0cm;
+			margin-right: 0cm;
+		}
+		h1   {
+			color: white;
+			text-align: left;
+			margin-left: 0cm;
+			margin-right: 0cm;
+			font-family: Courier New;
+			font-weight: 400;
+			text-transform: uppercase;
+			font-size: 12pt;
+			margin-bottom: 0.5cm;
+			background-color: black;
+		}
+		h2   {
+			color: black;
+			text-align: left;
+			margin-left: 23vw;
+			font-family: Courier New;
+			font-weight: normal;
+			text-transform: uppercase;
+			font-size: 0.8vw;
+			margin-bottom: ;
+			background-color: ;
+		}
+
+		a:link, a:visited	{
+			color: black;
+			text-decoration: none;
+		}
+		a:hover, a:active	{
+			color: white;
+			background-color: black;
+		}
+
+		p    {
+			font-family: Courier New;
+			margin-left: 0cm;
+			margin-top: 0cm;
+			font-size: 10pt;
+		}
+
+		ul	{
+			margin-left: 23vw;
+			max-width: 50vw;
+			margin-top: 1em;
+			padding:0px;
+		}
+		mark	{
+			background-color: black;
+			color: white;
+			text-transform: uppercase;
+		}
+		strong {
+			font-weight: normal;
+			text-transform: uppercase;
+		}
+		table	{
+			font-family: Courier New;
+			margin-left: 0cm;
+			margin-top: 1em;
+			border-spacing: 2px;
+			font-size: 10pt;
+		}
+		th, td, tr {
+  			padding: 2px;
+  			min-width: 200px;
+  			text-align: top;
+  			text-align: left;
+  			float: top;
+  			vertical-align: top;
+		}
+		th {
+			text-transform: uppercase;
+		}
+		img {
+			width:200px;
+			padding:0px;
+		}
+		img.solo {
+			width:700px;
+			padding:0px;
+		}
+		
+</style> 
