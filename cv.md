@@ -10,7 +10,7 @@ layout: page
   </tr>
   <tr>
     <td>Current</td>
-    <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection, Film Education</td>
+    <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection, Education</td>
   </tr>
   <tr>
     <td></td>
@@ -30,31 +30,31 @@ layout: page
   </tr>
   <tr>
     <td>2016-2018</td>
-    <td><strong>VHS, Film and Media Center.</strong> Lecturer</td>
+    <td><strong>VHS Film and Media Center.</strong> Lecturer</td>
   </tr>
   <tr>
     <td>2016-2017</td>
-    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Projection, Analogue film workshops </td>
+    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Projection, Workshops </td>
   </tr>
   <tr>
     <td></td>
-    <td><strong>University of Vienna, Theatre, Film and Media Studies.</strong> Lecturer Artistic Research</td>
+    <td><strong>University of Vienna, Film and Media Studies.</strong> Lecturer Artistic Research</td>
   </tr>
   <tr> 
     <td></td>
-    <td><strong>Student's Film Forum Freiburg.</strong> Curator </td>
+    <td><strong>Freibruger Filmforum.</strong> Curator </td>
   </tr>
   <tr> 
     <td>2012-2015</td>
-    <td><strong>TU Vienna.</strong> University assistant </td>
+    <td><strong>TU Vienna, Institute of Sociology.</strong> University Assistant </td>
   </tr>
   <tr> 
     <td>2011-2012</td>
-    <td><strong>wienXtra-jugendinfo, Vienna.</strong> Project coordination and artistic direction USE-IT city map </td>
+    <td><strong>wienXtra-jugendinfo, Vienna.</strong> Project Coordination and Artistic Direction USE-IT City Map </td>
   </tr>
   <tr> 
     <td>2010-2011</td>
-    <td><strong>Austrian Academy of Science.</strong> Research assistant </td>
+    <td><strong>Austrian Academy of Science.</strong> Research Assistant </td>
   </tr>
 </table> 
 
@@ -64,20 +64,20 @@ layout: page
     <th></th>
   </tr>
   <tr>
-    <td>2020-ongoing</td>
+    <td>Current</td>
     <td><strong>PhD Candidate.</strong> University of Applied Arts, Institute for Media Theory, Vienna</td>
   </tr>
   <tr>
     <td>2016-2018</td>
-    <td><strong>Theater, Film und Media Studies.</strong> University of Vienna</td>
+    <td><strong>Film und Media Studies.</strong> University of Vienna</td>
   </tr>
   <tr>
     <td>2015-2017</td>
-    <td><strong>School Friedl Kubelka for Independent Film,</strong> Vienna</td>
+    <td><strong>School Friedl Kubelka for Independent Film.</strong> Vienna</td>
   </tr>
   <tr>
     <td>2008-2010</td>
-    <td><strong>MA Urban Studies, „4Cities“.</strong> Brussels, Copenhagen, Madrid, Vienna. cum laude.<br></td>
+    <td><strong>MA Urban Studies „4Cities“.</strong> Brussels, Copenhagen, Madrid, Vienna<br></td>
   </tr>
   <tr> 
     <td>2004-2008</td>
@@ -90,7 +90,7 @@ layout: page
     <th style="text-align: left;">Grants/Residencies</th>
     <th></th>
   </tr>
-   <tr>
+  <tr>
     <td>2022</td>
     <td><strong>Working Grant for Filmmakers,</strong> Regional Ministry for Culture, Carinthia</td>
   </tr>
@@ -102,20 +102,32 @@ layout: page
     <td>2021</td>
     <td><strong>Working Grant for Filmmakers,</strong> Federal Ministry for Arts and Culture, Austria</td>
   </tr>
+  <tr>
+    <td>2019</td>
+    <td><strong>Independent Imaging Retreat,</strong> Film Farm Canada</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td><strong>Summer Academy Salzburg,</strong> Film as a sensitive body</td>
+  </tr>
   </table>
 
 <table>
-   <tr>
+  <tr>
       <th style="text-align: left;">Training</th>
       <th></th>
   </tr>
-   <tr>
+  <tr>
     <td>2022</td>
-   <td><strong>CS50,</strong> Introduction to Programming with Python, Harvard Online</td>
+   <td><strong>CS50 Introduction to Programming with Python,</strong> Harvard Online</td>
   </tr>
-     <tr>
+  <tr>
     <td></td>
-   <td><strong>AMIA</strong> Bash Scripting for Audiovisual Preservation</td>
+    <td><strong>AMIA</strong> Bash Scripting for Audiovisual Preservation</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Film Alterations,</strong> Analogica Film Workshop with Peter Lichter, Bozen</td>
   </tr>
   <tr>
   	<td>2021</td>
@@ -127,14 +139,18 @@ layout: page
   </tr>
   <tr>
   	<td>2020</td>
-    <td><strong>CS50,</strong> Introduction to Computer Science, Harvard Online</td>
+    <td><strong>CS50 Introduction to Computer Science,</strong> Harvard Online</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Phytography,</strong> Workshop with Karel Doing, Vienna</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Small File Media Aesthetics and Politics,</strong> Workshop with Laura Marks, Online</td>
   </tr>
   <tr>
   	<td>2019</td>
-    <td><strong>Film Farm Independent Imaging Retreat,</strong> Canada</td>
-  </tr>
-  <tr>
-  	<td></td>
     <td><strong>MoMA Media Conservation Initiative,</strong> “Caring for Artists‘ Films“, New York</td>
   </tr>
   <tr>
@@ -146,24 +162,24 @@ layout: page
     <td><strong>Summer School Filmmuseum,</strong> "Das Kino und das Fremde" ("Cinema and Otherness")</td>
   </tr>
   <tr>
+    <td></td>
+    <td><strong>Super8 Pixilation,</strong> Workshop with Madi Piller, Vienna</td>
+  </tr>
+  <tr> 
   	<td>2016</td>
-    <td><strong>Summer Academy Salzburg,</strong> "Film as a sensitive body“</td>
+    <td><strong> EICTV Documentary Summer School,</strong> Cuba</td>
   </tr>
   <tr> 
   	<td></td>
-    <td><strong>Documentary Summer School Cuba EICTV,</strong> Documentary film making</td>
-  </tr>
-  <tr> 
-  	<td></td>
-    <td><strong>Ethnocineca Workshop,</strong> Ethnographic film making</td>
+    <td><strong>Ethnocineca Film Workshop,</strong> Vienna</td>
   </tr>
   <tr>
   	<td>2015</td>
-    <td><strong>Okto.tv,</strong> Videojournalism, Studio production</td>
+    <td><strong>Videojournalism, Studio production,</strong> Okto.tv, Vienna</td>
   </tr>
   <tr> 
   	<td></td>
-    <td><strong>VHS Film and Media Center,</strong> Camera, Directing, Light, Script writing</td>
+    <td><strong>Camera, Directing, Light, Script writing,</strong> VHS Film and Media Centre, Vienna</td>
   </tr>
 </table>
 

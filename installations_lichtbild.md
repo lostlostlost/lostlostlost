@@ -6,7 +6,7 @@ layout: page
 
 <strong><b>Lichtbild 4:3</b></strong>, Super8 Projector Installation
 
-Die Installation „Lichtbild, 4:3“ reduziert Film auf das Wesentlichste: Projektion, Licht, einen Rahmen. Die einzelnen Bildpunkte formen gemeinsam ein Lichtbild im ursprünglichen Film- sowie Videoformat 4:3. Die Arbeit reflektiert den organischen Charakter analoger Projektion im Verhältnis zur Regelmäßigkeit digitaler Bildpunkte. Sie bewegt sich außerdem zwischen Dichotomien von Bewegung und Stillstand, Licht und Dunkel, Inhalt und Form. Begleitet wird die Arbeit von einer Klanginstallation mit analogen Synthesizern von Manfred Plessl.
+The Super 8 projector installation "Lichtbild 4:3" reduces film to its most essential parts: projection, light, a frame. The individual projections of pure white light form a bigger light image in the original film and video format 4:3. The work reflects the organic character of analog projection in relation to the regularity of digital picture elements, or pixels. It thinks about the relation between movement and stasis, light and dark, content and form. The light installation is complemented with a sound installation by Manfred Plessl.
 
 # Exhibitions
 

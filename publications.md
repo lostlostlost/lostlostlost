@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 # Publications
 
 <strong><a href="https://spectorbooks.com/picturing-austrian-cinema-de" rel="noopener noreferrer" target="_blank">Picturing Austrian Cinema</a></strong> (Bildredaktion)<br>
@@ -20,7 +21,6 @@ Wiener Wohnbauforschungstage, Vienna, 2011.
 
 # Conference Papers
 
-
 <strong>The Cinema of Abstractions. Photochemical Film in the Age of the Computer</strong><br>
 Conference: The Shifting Ecologies of Photochemical Film in the Digital Era, Online, 2021
 
@@ -37,4 +37,8 @@ Conference: Raumentwicklung 3.0, Akademie für Raumforschung und Landesplanung -
 Conference: Public space and the challenges of urban transformation in Europe: Politics and culture, Vienna, 2010.
 
 <strong>Brownfield redevelopment in Central-Eastern Europe</strong><br>
-Conference: Urban Development and Planning in Western and Central Eastern Europe, Hungarian Academy of Science, Budapest, 2010.
+Conference: Urban Development and Planning in Western and Central Eastern Europe, Hungarian Academy of Science, Budapest, 2010.<br>
+<br>
+<br>
+<img class="solo" src="./assets/img/Zen.png" alt="Cosma Grosser" title="Projektionist"/><br>
+

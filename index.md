@@ -2,13 +2,19 @@
 layout: page
 ---
 
-I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage with jekyll
+I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage with the open-source program jekyll, please enjoy all its flaws!
 
 If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net">mail</a>
 
 <img class="solo" src="./assets/img/CosmaGrosser_Projektionist.JPG" alt="Cosma Grosser" title="Projektionist"/><br>
 
 # News
+
+2022-01-23 <strong>Talk: </strong> "Arbeiten mit analogem Film" mit T. Covi, R. Frimmel u. I. Brunäcker, Stadtkino Wien
+
+2022-01-21 <strong>Screening:</strong> Earth Water Motor II, Rundgang AK Bildende
+
+2022-01-16 <strong>Talk: </strong> Präsentation filmischer Arbeiten, Friedl Kubelka Schule für unabhängigen Film
 
 2022-12-16 <strong>Screening:</strong> Memory Series, K3 Film Festival
 

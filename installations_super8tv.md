@@ -6,7 +6,7 @@ layout: page
 
 <strong><b>Super8TV</b></strong>, Super8/TV Installation
 
-Eine Begegnung zweier Apparate, die Bilder auf ganz unterschiedliche Weise erzeugen, aber dem gleichen Ort entspringen. Ihre „poor images" strahlten und warfen sie in unzählige Wohnzimmer. Was bleibt ist ein kosmisches Rauschen und der weiße Strahl des Projektors. Ein Abgesang. Eine Umarmung.
+An encounter of two apparatuses that operate in a very different logic, but share a common history. Both machines used to project and emanate their „poor images“ into countless living rooms. What remains is the white beam of light of the projector and the cosmic noise of the TV set. A farewell, an embrace.
 
 # Exhibitions
 

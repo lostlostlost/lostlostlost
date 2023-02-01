@@ -4,7 +4,7 @@ layout: page
 
 # 10 megabytes of memory
 
-<strong><b>10 megabytes of memory</b></strong>, 2021, digital (from Video8), colour, silent, 2min <br>
+<strong><b><a href="https://vimeo.com/543725598" rel="noopener noreferrer" target="_blank">10 megabytes of memory</a></b></strong>, 2021, digital (from Video8), colour, silent, 2min <br>
 
 Text Vienna Shorts (Neil Young):
 After Mountain View (2019) and Into the Wild (2021), Vienna-based experimental miniaturist Markus Maicher lands his Vienna Shorts hat-trick with this unique study in digital autobiography. Compressing a whole decade of his family’s home movies into 10Mb of binary data, it bombards the viewer with two minutes of total sensory overload. The result is a giddy blast of turbo-speed nostalgia that manages to find a whole new angle on the well-worn found-footage format. 

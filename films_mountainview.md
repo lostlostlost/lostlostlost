@@ -4,7 +4,7 @@ layout: page
 
 # Mountain View
 
-<strong><b>Mountain View</b></strong>, 2018, 16mm/digital, colour, silent, 3min <br>
+<strong><b><a href="https://vimeo.com/608215165" rel="noopener noreferrer" target="_blank">Mountain View</a></b></strong>, 2018, 16mm/digital, colour, silent, 3min <br>
 
 Mountain View originated from thinking about framing, movement, surface and depth. The frame is posited as a basic motif of film: film as a window into another world with depth, while the canvas remains a two-dimensional surface. Movement is questioned as the basic strucutre of film: movement as an illusion created by the sequence of 24 individual frames per second. Mountain View consists of three continuous zooms towards a landscape that are deconstructed into a discontinuous appearance of single frames. The panoramic view is obstructed, the organic movement of the hand dissolved into structural variation of the basic units of film. Indexical content is inevitably present on the physical film strip and yet lost in the structure of the film. The film frustrates expectations, one is being pulled forward but seems to be stuck. The closer you get to what is out there, the more it dissolves. Reality becomes a surface without depth, a projection.
 
