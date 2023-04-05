@@ -10,17 +10,23 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
-2022-01-23 <strong>Talk: </strong> "Arbeiten mit analogem Film" mit T. Covi, R. Frimmel u. I. Brunäcker, Stadtkino Wien
+2023-04-02 <strong>Screening: </strong> I am not there, Analog Mania
 
-2022-01-21 <strong>Screening:</strong> Earth Water Motor II, Rundgang AK Bildende
+2023-04-01 <strong>Vernissage: </strong> The Aesthetics of Disappearance, Video Installation, Analog Mania
 
-2022-01-16 <strong>Talk: </strong> Präsentation filmischer Arbeiten, Friedl Kubelka Schule für unabhängigen Film
+2023-02-06 <strong>Vernissage: </strong> Memory Series, Video Installation, Galerie Kras
+
+2023-01-23 <strong>Talk: </strong> "Arbeiten mit analogem Film" mit T. Covi, R. Frimmel u. I. Brunäcker, Stadtkino Wien
+
+2023-01-21 <strong>Screening:</strong> Earth Water Motor II, Rundgang AK Bildende
+
+2023-01-16 <strong>Talk: </strong> Präsentation filmischer Arbeiten, Friedl Kubelka Schule für unabhängigen Film
 
 2022-12-16 <strong>Screening:</strong> Memory Series, K3 Film Festival
 
 2022-12-14 <strong>Premiere:</strong> K3 Trailer, K3 Film Festival
 
-2022-11-26 <strong>Vernissage:</strong> Lichtbild 4:3, Kultuhof Villach
+2022-11-26 <strong>Vernissage:</strong> Lichtbild 4:3, Film Installation, Kultuhof Villach
 
 2022-11-23 <strong>Screening:</strong> Into the Wild, Istanbul International Experimental Film Festival
 

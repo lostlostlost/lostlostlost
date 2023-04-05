@@ -41,6 +41,7 @@ layout: page
 
 Alchemy Film and Moving Image Festival, Scotland <br>
 Analog Mania, Rumania <br>
+Analogica, Italy <br>
 Antimatter [Media Art], Canada <br>
 Artifact Small Format Film Festival, Canada<br>
 Austrian Filmmuseum, Austria<br>
@@ -55,6 +56,7 @@ dot dot dot Open Air Short Film Festival, Austria<br>
 Engauge Experimental Film Festival, USA<br>
 Ethnocineca, Austria<br>
 Experiments in Cinema, USA<br>
+Festival de Sevilla, Spain <br>
 Festival ECRA, Brasil<br>
 Fracto, Germany<br>
 Harkat 16mm Film Festival, India<br>
