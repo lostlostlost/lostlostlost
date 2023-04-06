@@ -19,6 +19,9 @@ Antimatter [Media Art], Canada <br>
 Diagonale, Austria<br>
 K3 Film Festival, Austria<br>
 
+{% include image-gallery.html folder="assets/img/memoryseries" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/memoryseries' %}
@@ -26,3 +29,4 @@ K3 Film Festival, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

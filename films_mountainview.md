@@ -33,6 +33,9 @@ Tranås at the Fringe, Sweden<br>
 ULTRAcinema, Mexico<br>
 Vienna Shorts Film Festival, Austria<br>
 
+{% include image-gallery.html folder="assets/img/mountainview" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/mountainview' %}
@@ -40,3 +43,4 @@ Vienna Shorts Film Festival, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

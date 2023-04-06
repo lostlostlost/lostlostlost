@@ -14,6 +14,9 @@ Silent reflections / Reflections on silence # 1 explores the urban lifeworld in 
 Ethnocineca, Austria<br>
 Iowa City Documentary Film Festival (ICDOCS), USA<br>
 
+{% include image-gallery.html folder="assets/img/silentreflections" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/silentreflections' %}
@@ -21,3 +24,4 @@ Iowa City Documentary Film Festival (ICDOCS), USA<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

@@ -12,6 +12,9 @@ The installation shows the three-part film "Memory Series" on three CRT monitors
 
 Galerie Kras, 2023<br>
 
+{% include image-gallery.html folder="assets/img/videomemory" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/videomemory' %}
@@ -21,3 +24,4 @@ Galerie Kras, 2023<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

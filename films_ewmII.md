@@ -8,16 +8,9 @@ layout: page
 
 Cutting through landscapes with the machine. Destroying the postcard images of places we know. Part two of the Earth Water Motor series is filmed on soundstock with a 16mm Bolex, hand developed and edited in-camera. The film music is composed with an analogue synthesizer. Beginning in Bschabertal the series finds its continuation in Krumpendorf.
 
-<!--
-# Screenings
+{% include image-gallery.html folder="assets/img/motorII" %}
 
-dot dot dot Open Air Kurzfilmfestival, Austria<br>
-Small File Media Festival, Canada<br>
-Split Videoart Festival, Croatia<br>
-Tranås at the Fringe, Sweden <br>
-Under the Radar, Austria<br>
-Vienna Shorts Film Festival, Austria<br>
--->
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/motorII' %}
@@ -25,3 +18,4 @@ Vienna Shorts Film Festival, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

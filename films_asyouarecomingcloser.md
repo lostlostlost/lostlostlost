@@ -18,6 +18,9 @@ Moscow International Experimental Film Festival (MIEFF), Russia<br>
 Syros International Film Festival, Greece<br>
 WestLicht/Diagonale, Austria<br>
 
+{% include image-gallery.html folder="assets/img/asyouarecomingcloser" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/asyouarecomingcloser' %}
@@ -25,3 +28,4 @@ WestLicht/Diagonale, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

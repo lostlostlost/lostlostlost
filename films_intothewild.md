@@ -27,7 +27,9 @@ Peripheries Experimental Film & Video Festival, USA<br>
 Tranås at the Fringe, Sweden<br>
 Vienna Shorts Film Festival, Austria<br>
 
+{% include image-gallery.html folder="assets/img/intothewild" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/intothewild' %}
@@ -35,3 +37,4 @@ Vienna Shorts Film Festival, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

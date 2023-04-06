@@ -12,7 +12,9 @@ Super8 is watching you!
 
 <a href="https://kulturhofvillach.at/events/2022/2022-09-02_festival/Kulturhofkeller" rel="noopener noreferrer" target="_blank"> Kulturhof Festival</a>, Kulturhof Villach, 2022<br>
 
+{% include image-gallery.html folder="assets/img/super8cctv" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/super8cctv' %}
@@ -20,3 +22,4 @@ Super8 is watching you!
     {% endif %}
 {% endfor %}
 </ul>
+-->

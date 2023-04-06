@@ -12,7 +12,9 @@ The Super 8 projector installation "Lichtbild 4:3" reduces film to its most esse
 
 <a href="https://kulturhofvillach.at/events/2022/2022-11-26_vernissage_maicherplessl/" rel="noopener noreferrer" target="_blank">Schauraum</a>, Kulturhof Villach, 2022<br>
 
+{% include image-gallery.html folder="assets/img/lichtbild" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/lichtbild' %}
@@ -22,3 +24,4 @@ The Super 8 projector installation "Lichtbild 4:3" reduces film to its most esse
     {% endif %}
 {% endfor %}
 </ul>
+-->

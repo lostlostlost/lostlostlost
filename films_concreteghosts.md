@@ -14,6 +14,9 @@ dotdotdot Open Air Kurzfilmfestival, Austria<br>
 Process Experimental Filmfestival, Latvia<br>
 School Friedl Kubelka for Independent Film, Austria<br>
 
+{% include image-gallery.html folder="assets/img/concreteghosts" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/concreteghosts' %}
@@ -21,3 +24,4 @@ School Friedl Kubelka for Independent Film, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

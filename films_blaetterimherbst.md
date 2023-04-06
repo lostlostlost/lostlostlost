@@ -19,6 +19,9 @@ Filmkoop Wien, Austria<br>
 Fracto, Germany<br>
 University of Chicago, USA<br>
 
+{% include image-gallery.html folder="assets/img/blaetterimherbst" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/blaetterimherbst' %}
@@ -26,3 +29,4 @@ University of Chicago, USA<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

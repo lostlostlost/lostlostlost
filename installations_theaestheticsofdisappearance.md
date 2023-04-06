@@ -12,6 +12,9 @@ The Aesthetics of Disappearance thinks about the illusionary character of the im
 
 Analog Mania, 2023<br>
 
+{% include image-gallery.html folder="assets/img/theaestheticsofdisappearance" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/theaestheticsofdisappearance' %}
@@ -21,3 +24,4 @@ Analog Mania, 2023<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

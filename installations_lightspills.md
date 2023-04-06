@@ -13,7 +13,9 @@ Light Spills investigates analog film and photography as captured and projected 
 <a href="https://www.filmkoopwien.at/de/fotowien/" rel="noopener noreferrer" target="_blank">Analog Layers Exhibition</a>, Foto Wien, 2019<br>
 <a href="https://www.analogmania.ro/Analog" rel="noopener noreferrer" target="_blank"> Analog Mania</a>, Rumania, 2021
 
+{% include image-gallery.html folder="assets/img/lightspills" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/lightspills' %}
@@ -21,3 +23,4 @@ Light Spills investigates analog film and photography as captured and projected 
     {% endif %}
 {% endfor %}
 </ul>
+-->

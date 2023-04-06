@@ -17,6 +17,9 @@ layout: page
 
 <strong><a href="https://www.freiburger-filmforum.de/archiv/programm-2017/" rel="noopener noreferrer" target="_blank">Freiburger Film Forum</a></strong>, Student's Platform, 2017<br>
 
+{% include image-gallery.html folder="assets/img/curating" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/curating' %}
@@ -24,3 +27,4 @@ layout: page
     {% endif %}
 {% endfor %}
 </ul>
+-->

@@ -12,7 +12,9 @@ An encounter of two apparatuses that operate in a very different logic, but shar
 
 <a href="https://www.viennaartweek.at/en/" rel="noopener noreferrer" target="_blank">Vienna Art Week</a>, Creative Cluster, 2022<br>
 
+{% include image-gallery.html folder="assets/img/super8tv" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/super8tv' %}
@@ -20,3 +22,4 @@ An encounter of two apparatuses that operate in a very different logic, but shar
     {% endif %}
 {% endfor %}
 </ul>
+-->

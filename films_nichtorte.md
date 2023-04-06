@@ -12,6 +12,9 @@ Non-places are spaces of solitude and busyness, anonymity and freedom, equality 
 
 Okto.tv<br>
 
+{% include image-gallery.html folder="assets/img/nichtorte" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/nichtorte' %}
@@ -19,3 +22,4 @@ Okto.tv<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

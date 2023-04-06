@@ -21,7 +21,9 @@ Moscow International Experimental Film Festival (MIEFF), Russia<br>
 Udine Film Forum, Online<br>
 WestLicht/Diagonale, Vienna<br>
 
+{% include image-gallery.html folder="assets/img/iamnotthere" %}
 
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/iamnotthere' %}
@@ -29,3 +31,4 @@ WestLicht/Diagonale, Vienna<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->

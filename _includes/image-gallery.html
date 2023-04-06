@@ -1,0 +1,29 @@
+<!--
+<style>
+  .image-gallery {overflow: auto; margin-left: 23vw; margin-right: 23vw; text-decoration: none!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 0.5% 0.5%; width:16vw; text-align: left; text-align: bottom; }
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%;}
+</style>
+-->
+
+<ul>
+{% for file in site.static_files %}
+  {% if file.path contains include.folder %}
+    {% if file.extname == '.jpg' or 
+      file.extname == '.jpeg' or 
+      file.extname == '.JPG' or 
+      file.extname == '.JPEG' % or
+      file.extname == '.PNG' % or
+      file.extname == '.png' %}
+
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
+
+      <a class="img" href="{{ file.path }}" title="">
+        <img src="{{ file.path }}" title=""/>
+      </a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>

@@ -21,6 +21,9 @@ Tranås at the Fringe, Sweden <br>
 Under the Radar, Austria<br>
 Vienna Shorts Film Festival, Austria<br>
 
+{% include image-gallery.html folder="assets/img/10mbofmemory" %}
+
+<!--
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/10mbofmemory' %}
@@ -28,3 +31,4 @@ Vienna Shorts Film Festival, Austria<br>
     {% endif %}
 {% endfor %}
 </ul>
+-->
