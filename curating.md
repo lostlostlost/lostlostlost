@@ -20,7 +20,7 @@ layout: page
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/curating' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
 {% endfor %}
 </ul>

@@ -16,7 +16,7 @@ An encounter of two apparatuses that operate in a very different logic, but shar
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/super8tv' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
 {% endfor %}
 </ul>

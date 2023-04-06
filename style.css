@@ -1,5 +1,6 @@
 
 <style>
+
 		body {
 			margin-top: 0em;
 			margin-left: 23vw;
@@ -48,6 +49,15 @@
 			text-decoration: underline;
 			background-color: lightgrey;
 		}
+		a.img:link, a.img:visited	{
+			color: white;
+			text-decoration: none;
+		}
+		a.img:hover, a.img:active	{
+			color: white;
+			text-decoration: none;
+			background-color: white;
+		}
 		p    {
 			font-family: Courier New;
 			margin-left: 23vw;
@@ -94,16 +104,21 @@
 		img {
 			width:16vw;
 			padding:0px;
+			border-radius: 2px;
+			/*border: 5px solid black;*/
+		}
+		img:hover {
+			/*box-shadow: 0 0 10px 0px black;*/
+			opacity: 0.5;
 		}
 		img.solo {
 			width:50vw;
 			padding:0px;
 		}
-		#leftimg{
-			margin-left: 23vw;
+		img.solo:hover {
+			opacity: 1;
 		}
-		iframe {
-			width: 50vw;
+		#leftimg{
 			margin-left: 23vw;
 		}
 		input, textarea {
@@ -137,7 +152,8 @@
     		padding-bottom: 1rem;
     		margin-left: 23vw;
     		max-width: 50vw;
-		}
+		}	
+
 		@media screen and (max-width: 500px) {
 /* applies only if the screen is narrower than 500px */
   		header {

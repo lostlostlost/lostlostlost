@@ -17,7 +17,7 @@ School Friedl Kubelka for Independent Film, Austria<br>
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/concreteghosts' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
 {% endfor %}
 </ul>

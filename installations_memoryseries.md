@@ -16,7 +16,7 @@ Galerie Kras, 2023<br>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/videomemory' %}
     {% if image.extname == '.jpg' or image.extname == '.jpeg' or image.extname == '.JPG' or image.extname == '.JPEG' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
     {% endif %}
 {% endfor %}

@@ -40,5 +40,5 @@ Conference: Public space and the challenges of urban transformation in Europe: P
 Conference: Urban Development and Planning in Western and Central Eastern Europe, Hungarian Academy of Science, Budapest, 2010.<br>
 <br>
 <br>
-<img class="solo" src="./assets/img/Zen.png" alt="Cosma Grosser" title="Projektionist"/><br>
+<a class="img" href="./assets/img/Zen.png"><img class="solo" src="./assets/img/Zen.png" alt="Cosma Grosser" title=""/></a><br>
 

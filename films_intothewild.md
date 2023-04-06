@@ -31,7 +31,7 @@ Vienna Shorts Film Festival, Austria<br>
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/intothewild' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
 {% endfor %}
 </ul>

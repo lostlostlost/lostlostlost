@@ -17,7 +17,7 @@ Light Spills investigates analog film and photography as captured and projected 
 <ul>
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/lightspills' %}
-<img src="{{ image.path }}"/>
+<a class="img" href="{{ image.path }}"><img title="" src="{{ image.path }}"/></a>
     {% endif %}
 {% endfor %}
 </ul>
