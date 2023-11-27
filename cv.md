@@ -132,7 +132,7 @@ layout: page
   </tr>
   <tr>
     <td></td>
-    <td><strong>Experiments for a Single Projector,</strong> Workshop with Alex MacKenzie</td>
+    <td><strong>Expanded Cinema: Apparatus and Methodology,</strong> Workshop with Alex MacKenzie</td>
   </tr>
   <tr>
     <td>2022</td>
