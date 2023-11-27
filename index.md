@@ -10,27 +10,49 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
-2023-04-02 <strong>Screening: </strong> I am not there, Analog Mania
+2023-12-07 <strong>Screening:</strong> Earth Water Motor II, K3 Film Festival
 
-2023-04-01 <strong>Vernissage: </strong> The Aesthetics of Disappearance, Video Installation, Analog Mania
+2023-11-25 <strong>Screening:</strong> Earth Water Motor II, Festival Cinemistica
 
-2023-02-06 <strong>Vernissage: </strong> Memory Series, Video Installation, Galerie Kras
+2023-11-21 <strong>Screening:</strong> Earth Water Motor II, Freies Kino im Stadtkino Künstlerhaus
 
-2023-01-23 <strong>Talk: </strong> "Arbeiten mit analogem Film" mit T. Covi, R. Frimmel u. I. Brunäcker, Stadtkino Wien
+2022-11-11 <strong>Vernissage:</strong> Cosmic Noise 4:3, Video Installation, Vienna Art Week/Creative Cluster
+
+2023-11-10 <strong>Screening:</strong> Earth Water Motor II, Experimental Superstars
+
+2023-11-03 <strong>Screening:</strong> Earth Water Motor II, Engauge Experimental Film Festival
+
+2023-10-26 <strong>Screening:</strong> Earth Water Motor II, Bideodromo International Experimental Film and Video Festival
+
+2023-10-13 <strong>Teaching:</strong> "Handmade Cinema: Photochemischer Film im digitalen Zeitalter", Seminar, University of Klagenfurt
+
+2023-09-08 <strong>Talk:</strong> "Lo-Fi, High-Contrast. Hand-made Film Ecologies and the Material Body of Analog Film", Visible Evidence Conference, Film Forum Udine
+
+2023-06-05 <strong>Screening:</strong> Earth Water Motor II, Vienna Shorts Film Festival
+
+2023-05-17 <strong>Teaching:</strong> 16mm Filmmaking Workshop, University of Applied Arts Vienna
+
+2023-04-02 <strong>Screening:</strong> I am not there, Analog Mania
+
+2023-04-01 <strong>Vernissage:</strong> The Aesthetics of Disappearance, Video Installation, Analog Mania
+
+2023-02-06 <strong>Vernissage:</strong> Memory Series, Video Installation, Galerie Kras
+
+2023-01-23 <strong>Talk:</strong> "Arbeiten mit analogem Film" mit T. Covi, R. Frimmel u. I. Brunäcker, Stadtkino Wien
 
 2023-01-21 <strong>Screening:</strong> Earth Water Motor II, Rundgang AK Bildende
 
-2023-01-16 <strong>Talk: </strong> Präsentation filmischer Arbeiten, Friedl Kubelka Schule für unabhängigen Film
+2023-01-16 <strong>Talk:</strong> Artist Talk, Friedl Kubelka Schule für unabhängigen Film
 
 2022-12-16 <strong>Screening:</strong> Memory Series, K3 Film Festival
 
 2022-12-14 <strong>Premiere:</strong> K3 Trailer, K3 Film Festival
 
-2022-11-26 <strong>Vernissage:</strong> Lichtbild 4:3, Film Installation, Kultuhof Villach
+2022-11-26 <strong>Vernissage:</strong> Lichtbild 4:3, Super8 Projector Installation, Kultuhof Villach
 
 2022-11-23 <strong>Screening:</strong> Into the Wild, Istanbul International Experimental Film Festival
 
-2022-11-19 <strong>Vernissage:</strong> Super8TV, Vienna Art Week, Creative Cluster
+2022-11-19 <strong>Vernissage:</strong> Super8TV, Video Installation, Vienna Art Week/Creative Cluster
 
 2022-11-10 <strong>Screening:</strong> Mountain View, Analogica
 
@@ -58,7 +80,7 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 2022-06-14 <strong>Residency:</strong> Medienfrische Tirol/Bschlabertal
 
-2022-05-26 <strong>Screening:</strong> 10 megabytes of memory,  Split Videoart Festival
+2022-05-26 <strong>Screening:</strong> 10 megabytes of memory, Split Videoart Festival
 
 2022-05-26 <strong>Screening:</strong> 10 megabytes of memory, Vienna Shorts Film Festival
 

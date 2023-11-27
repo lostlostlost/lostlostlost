@@ -4,6 +4,8 @@ layout: page
 
 # Installations
 
+<strong><a href="installations_cosmicnoise4by3.html">Cosmic Noise 4:3</a></strong>, Video Installation<br>
+
 <strong><a href="installations_theaestheticsofdisappearance.html">The Aesthetics of Disappearance</a></strong>, Video Installation<br>
 
 <strong><a href="installations_memoryseries.html">Memory Series</a></strong>, Three-Channel Video Installation<br>

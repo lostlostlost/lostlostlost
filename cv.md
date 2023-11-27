@@ -90,6 +90,11 @@ layout: page
     <th style="text-align: left;">Grants/Residencies</th>
     <th></th>
   </tr>
+    <tr>
+    <td>2023</td>
+    <td><strong>Production Grant for Filmmakers</strong> "Objects in the rear mirror appear closer than they really are"</td>
+  </tr>
+    <td></td>
   <tr>
     <td>2022</td>
     <td><strong>Working Grant for Filmmakers,</strong> Regional Ministry for Culture, Carinthia</td>
@@ -118,8 +123,20 @@ layout: page
       <th></th>
   </tr>
   <tr>
+    <td>2023</td>
+    <td><strong>Baltic Analog Lab Film School,</strong> Online</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Analog Contact Printing Workshop,</strong> Workshop with Stefanie Weberhofer</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><strong>Experiments for a Single Projector,</strong> Workshop with Alex MacKenzie</td>
+  </tr>
+  <tr>
     <td>2022</td>
-   <td><strong>CS50 Introduction to Programming with Python,</strong> Harvard Online</td>
+    <td><strong>CS50 Introduction to Programming with Python,</strong> Harvard Online</td>
   </tr>
   <tr>
     <td></td>

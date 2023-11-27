@@ -4,6 +4,9 @@ layout: page
 
 # Publications
 
+<strong><a href="" rel="noopener noreferrer" target="_blank">Embodiment and Materialist Practices in Artist’s Cinema: A Conversation</a></strong><br>
+In: And Yet It Moves! On Cinema, Media and Mobility. Ed.: Andrea Mariani and Simona Schneider, Milano/Udine: Mimesis, 2023.
+
 <strong><a href="https://spectorbooks.com/picturing-austrian-cinema-de" rel="noopener noreferrer" target="_blank">Picturing Austrian Cinema</a></strong> (Bildredaktion)<br>
 Hg.: Katharina Müller und Claus Philipp, Spector Books, 2022.
 
@@ -20,6 +23,9 @@ Metropolitan regions in Europe, Hungarian Academy of Science, Budapest, 2012.
 Wiener Wohnbauforschungstage, Vienna, 2011.
 
 # Conference Papers
+
+<strong>Lo-Fi, High-Contrast. Hand-made Film Ecologies and the Material Body of Analog Film</strong><br>
+Conference: Visible Evidence, Film Forum Udine, 2023
 
 <strong>The Cinema of Abstractions. Photochemical Film in the Age of the Computer</strong><br>
 Conference: The Shifting Ecologies of Photochemical Film in the Digital Era, Online, 2021
