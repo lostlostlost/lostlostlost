@@ -128,6 +128,10 @@ layout: page
   </tr>
   <tr>
     <td></td>
+    <td><strong>No Limitations: An Exploration into Super 8 Camera Techniques,</strong> Workshop with Pablo Marin</td>
+  </tr>
+  <tr>
+    <td></td>
     <td><strong>Analog Contact Printing Workshop,</strong> Workshop with Stefanie Weberhofer</td>
   </tr>
   <tr>
