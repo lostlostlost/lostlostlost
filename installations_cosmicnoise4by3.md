@@ -10,7 +10,7 @@ A wall of discarded television sets, once throwing their poor images into countl
 
 # Exhibitions
 
-<a href="" rel="noopener noreferrer" target="_blank">Vienna Art Week</a>, Creative Cluster, 2023<br>
+<a href="https://vimeo.com/889453903/5fc3de61ea?share=copy">Vienna Art Week</a>, Creative Cluster, 2023<br>
 
 {% include image-gallery.html folder="assets/img/cosmicnoise" %}
 
