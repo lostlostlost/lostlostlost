@@ -10,7 +10,7 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
-2023-12-12 <strong>Screening:</strong> Trailer: Freies Kino, Stadtkino Künstlerhaus
+2023-12-12 <strong>Screening:</strong> Trailer Freies Kino, Stadtkino Künstlerhaus
 
 2023-12-07 <strong>Screening:</strong> Earth Water Motor II, K3 Film Festival
 
