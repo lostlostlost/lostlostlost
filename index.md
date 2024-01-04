@@ -2,13 +2,15 @@
 layout: page
 ---
 
-I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage with the open-source program jekyll, please enjoy all its flaws!
+I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage myself with the open-source program jekyll, please enjoy all its flaws!
 
 If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net">mail</a>
 
 <img class="solo" src="./assets/img/CosmaGrosser_Projektionist_small.JPG" title=""/><br>
 
 # News
+
+2023-12-12 <strong>Screening:</strong> Trailer: Freies Kino, Stadtkino Künstlerhaus
 
 2023-12-07 <strong>Screening:</strong> Earth Water Motor II, K3 Film Festival
 
@@ -102,7 +104,7 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 2021-10-16 <strong>Screening:</strong> 10 megabytes of memory / Into the Wild, Tranas at the Fringe
 
-2021-08-01 <strong>Screening:</strong> Into the Wild,  Bogotá Experimental Film Festival / CineAutopsia
+2021-08-01 <strong>Screening:</strong> Into the Wild, Bogotá Experimental Film Festival / CineAutopsia
 
 2021-06-12 <strong>Screening:</strong> Into the Wild, Diagonale
 
