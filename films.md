@@ -10,9 +10,9 @@ layout: page
 
 <h1> Films </h1>
 
-<strong><a href="">Blätter im Herbst #2 (Leaves in Autumn #2)</a></strong>, 2024, 16mm, colour, silent, 3min <br>
+<strong><a href="films_blaetterimherbst2.html">Blätter im Herbst #2 (Leaves in Autumn #2)</a></strong>, 2024, 16mm, colour, silent, 3min <br>
 
-<strong><a href="">The Act of Not Seeing with One's Own Eyes</a></strong>, digital, colour, sound, 8min <br>
+<strong><a href="films_theact.html">The Act of Not Seeing with One's Own Eyes</a></strong>, 2023, digital, colour, sound, 8min <br>
 
 <strong><a href="films_ewmII.html">Earth Water Motor II</a></strong>, 2023, 16mm, b/w, sound, 4min <br>
 
