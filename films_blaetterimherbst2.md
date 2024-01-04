@@ -8,7 +8,7 @@ layout: page
 
 Continuation of the Blätter im Herbst Series. A simple meditation on the earliest and most basic experience of movement captured on celluloid: leaves moving gently in the wind.
 
-{% include image-gallery.html folder="assets/img/blaetterimherbst2" %}
+{% include image-gallery.html folder="assets/img/2blaetterimherbst" %}
 
 <!--
 <ul>
