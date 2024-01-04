@@ -10,6 +10,8 @@ layout: page
 
 <h1> Films </h1>
 
+<strong><a href="films_ewmII.html">The Act of Not Seeing with One's Own Eyes</a></strong>, digital, color, sound, 8min <br>
+
 <strong><a href="films_ewmII.html">Earth Water Motor II</a></strong>, 2023, 16mm, b/w, sound, 4min <br>
 
 <strong><a href="films_ewm.html">Earth Water Motor</a></strong>, 2022, 16mm, b/w, silent, 4min <br>
@@ -45,6 +47,7 @@ Analogica, Italy <br>
 Antimatter [Media Art], Canada <br>
 Artifact Small Format Film Festival, Canada<br>
 Austrian Filmmuseum, Austria<br>
+Bideodromo International Experimental Film and Video Festival, Spain<br>
 Blickle Kino, Belvedere, Austria<br>
 Bogota Experimental Film Festival, Columbia<br>
 Canyon New Acquisitions, Online<br>
@@ -55,10 +58,12 @@ DOBRA - Festival Internacional de Cinema Experimental, Brasil<br>
 dot dot dot Open Air Short Film Festival, Austria<br>
 Engauge Experimental Film Festival, USA<br>
 Ethnocineca, Austria<br>
+Experimental Superstars, Serbia<br>
 Experiments in Cinema, USA<br>
 Festival de Sevilla, Spain <br>
 Festival ECRA, Brasil<br>
 Fracto, Germany<br>
+Freies Kino, Stadtkino Künstlerhaus, Austria<br>
 Harkat 16mm Film Festival, India<br>
 Iowa City Documentary Film Festival (ICDOCS), USA<br>
 International Short Film Festival Oberhausen, Germany<br>

@@ -12,13 +12,13 @@ Distribution: Light Cone
 
 # Screenings
 
-K3 Film Festival, Austria
-Cinemistica, Spain
-Freies Kino, Stadtkino Künstlerhaus, Austria
-Experimental Superstars, Serbia
-Engauge Experimental Film Festival, USA
-Bideodromo International Experimental Film and Video, Spain
-Vienna Shorts Film Festival, Austria
+K3 Film Festival, Austria<br>
+Cinemistica, Spain<br>
+Freies Kino, Stadtkino Künstlerhaus, Austria<br>
+Experimental Superstars, Serbia<br>
+Engauge Experimental Film Festival, USA<br>
+Bideodromo International Experimental Film and Video, Spain<br>
+Vienna Shorts Film Festival, Austria<br>
 
 {% include image-gallery.html folder="assets/img/motorII" %}
 
