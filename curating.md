@@ -3,6 +3,10 @@ layout: page
 ---
 # Curating
 
+<strong><a href="https://www.diagonale.at/forum/" target="noopener noreferrer">Cinema Expanded – 15 Jahre filmkoop wien</a></strong>, Diagonale, 2024<br>
+
+<strong><a href="https://www.filmmuseum.at/kinoprogramm/produktion?veranstaltungen_id=1707447147534" target="noopener noreferrer">Filmkoop wien double projection @ 60 Jahre Filmmuseum</a></strong>, Austrian Filmmuseum, 2024<br>
+
 <strong><a href="" target="_blank">Blätter im Herbst</a></strong>, Blickle Kino, 2022<br>
 
 <strong><a href="" target="_blank">Self-made, analog cinema!</a></strong>, Waldarena Krumpendorf, 2022

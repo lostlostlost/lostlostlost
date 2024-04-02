@@ -10,6 +10,14 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
+2024-03-16 <strong>Screening:</strong> Earth Water Motor II, Dresdner Schmalfilmtage
+
+2024-03-14 <strong>Screening/Curated:</strong> Blätter im Herbst #1/#2, 16mm double projection @ Austrian Filmmuseum
+
+2024-03-14 <strong>Screening:</strong> Earth Water Motor Series, Expanded Cinema @ Blickle Kino
+
+2024-01-19 <strong>Screening:</strong> Blätter im Herbst #2, Analogfilmwerke Hamburg
+
 2023-12-12 <strong>Screening:</strong> Trailer Freies Kino, Stadtkino Künstlerhaus
 
 2023-12-07 <strong>Screening:</strong> Earth Water Motor II, K3 Film Festival
