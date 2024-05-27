@@ -3,9 +3,11 @@ layout: page
 ---
 # Curating
 
-<strong><a href="https://www.diagonale.at/forum/" target="noopener noreferrer">Cinema Expanded – 15 Jahre filmkoop wien</a></strong>, Diagonale, 2024<br>
+<strong><a href="https://www.fotogaleriewien.at/ausstellung/die-gruene-kammer/" target="noopener noreferrer">Die Grüne Kammer – Alternative Prozesse und nachhaltige fotografische Praxis</a></strong>, Fotogalerie Wien, 2024<br>
 
-<strong><a href="https://www.filmmuseum.at/kinoprogramm/produktion?veranstaltungen_id=1707447147534" target="noopener noreferrer">Filmkoop wien double projection @ 60 Jahre Filmmuseum</a></strong>, Austrian Filmmuseum, 2024<br>
+<strong><a href="https://www.diagonale.at/forum/" target="noopener noreferrer">Cinema Expanded</a></strong>, Diagonale Forum, 2024<br>
+
+<strong><a href="https://www.filmmuseum.at/kinoprogramm/produktion?veranstaltungen_id=1707447147534" target="noopener noreferrer">60 years Austrian Filmmuseum</a></strong>, 16mm double projection, Austrian Filmmuseum, 2024<br>
 
 <strong><a href="" target="_blank">Blätter im Herbst</a></strong>, Blickle Kino, 2022<br>
 

@@ -140,7 +140,7 @@ layout: page
   </tr>
   <tr>
     <td>2022</td>
-    <td><strong>CS50 Introduction to Programming with Python,</strong> Harvard Online</td>
+    <td><strong>Introduction to Programming with Python,</strong> Harvard Online</td>
   </tr>
   <tr>
     <td></td>
@@ -160,7 +160,7 @@ layout: page
   </tr>
   <tr>
   	<td>2020</td>
-    <td><strong>CS50 Introduction to Computer Science,</strong> Harvard Online</td>
+    <td><strong>Introduction to Computer Science,</strong> Harvard Online</td>
   </tr>
   <tr>
     <td></td>

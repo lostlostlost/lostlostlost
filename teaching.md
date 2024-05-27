@@ -18,6 +18,8 @@ layout: page
 
 # Workshops
 
+<strong>Phytography,</strong> filmkoop wien, 2024<br>
+<strong>Super8 Filmmaking,</strong> filmkoop wien, 2024<br>
 <strong>16mm Filmmaking,</strong> University of Applied Arts Vienna, 2023S<br>
 <strong>Raum.Projektionen. Die Stadt und das Kino als epistemologische Maschinen,</strong> <a href="https://sektionstadtforschung.wordpress.com/startseite/" rel="noopener noreferrer" target="_blank">ÖGS Sektion Stadtforschung</a>, Art-Based Research in der Stadt- und Raumforschung, 2021<br>
 <strong>Der geöffnete Raum. Film als Welterfahrung,</strong> Austrian Filmmuseum,  <a href="https://filmmuseum.at/jart/prj3/filmmuseum/data/uploads/Vermittlung_Forschung/SiK/Schule-im-Kino_SoSe2019.pdf" rel="noopener noreferrer" target="_blank">2019S</a><br>

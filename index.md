@@ -10,6 +10,18 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
+2024-07-24 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Revelation Perth International Film Festival
+
+2024-05-29 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, World Premiere @ Vienna Shorts
+
+2024-05-18 <strong>Workshop:</strong> WS Phytography, filmkoop wien
+
+2024-04-29 <strong>Exhibition:</strong> I See A Darkness. Winterphytogramme, Die Grüne Kammer, Fotogalerie Wien
+
+2024-04-07 <strong>Workshop:</strong> WS Super8 Filmmaking, filmkoop wien
+
+2024-04-07 <strong>Screening:</strong> Blätter im Herbst #1/#2, Cinema Expanded @ Diagonale Forum
+
 2024-03-16 <strong>Screening:</strong> Earth Water Motor II, Dresdner Schmalfilmtage
 
 2024-03-14 <strong>Screening/Curated:</strong> Blätter im Herbst #1/#2, 16mm double projection @ Austrian Filmmuseum
