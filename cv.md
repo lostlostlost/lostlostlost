@@ -90,9 +90,14 @@ layout: page
     <th style="text-align: left;">Grants/Residencies</th>
     <th></th>
   </tr>
-    <tr>
+  <tr>
+    <td>2024</td>
+    <td><strong>Working Grant for Filmmakers,</strong> Federal Ministry for Arts and Culture, Austria</td>
+  </tr>
+    <td></td>
+  <tr>
     <td>2023</td>
-    <td><strong>Production Grant for Filmmakers</strong> "Objects in the rear mirror appear closer than they really are"</td>
+    <td><strong>Production Grant for Filmmakers,</strong> "Objects in the rear mirror appear closer than they really are"</td>
   </tr>
     <td></td>
   <tr>

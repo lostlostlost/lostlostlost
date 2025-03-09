@@ -2,13 +2,36 @@
 layout: page
 ---
 
-I am an experimental filmmaker, projectionist and lecturer in artistic research. I am interested in analogue filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage myself with the open-source program jekyll, please enjoy all its flaws!
+I am an experimental filmmaker, projectionist and lecturer/researcher. I am interested in analog filmmaking as artistic practice and emancipatory aesthetic politics, in open source technology and the ethics of sharing. I programmed this homepage myself with the open-source program jekyll, please enjoy all its flaws!
 
 If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net">mail</a>
 
 <img class="solo" src="./assets/img/CosmaGrosser_Projektionist_small.JPG" title=""/><br>
 
 # News
+
+
+2024-04-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Onion City Experimental Film Festival
+
+2024-12-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, K3 Film Festival
+
+2023-11-19 <strong>Guest Lecture:</strong> "FROM EMULSION TO ALGORITHM. Handmade Film Practices in a Post-Digital Age", University of Klagenfurt
+
+2024-11-14 <strong>Screening:</strong> Earth Water Motor II, Analogica
+
+2024-11-14 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Experimental Superstars
+
+2024-10-17 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Antimatter Media Art
+
+2024-10-15 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, BIDEODROMO International Experimental Film and Video Festival
+
+2022-10-01 <strong>Grant:</strong> 3-month filmmaking stipend, BMKÖS Federal Ministry of Culture
+
+2024-09-19 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Cindependent Film Festival
+
+2024-09-19 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Peripheries Experimental Film & Video Festival
+
+2024-09-11 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Chicago Underground Film Festival
 
 2024-07-24 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Revelation Perth International Film Festival
 
