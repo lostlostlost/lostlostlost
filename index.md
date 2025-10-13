@@ -10,7 +10,13 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
+2025-10-23 <strong>Screening:</strong> 10 megabytes of memory, Uppsala Short Film Festival
+
 2025-10-05 <strong>Workshop:</strong> Phytography, Foto Arsenal
+
+2025-09-25 <strong>Screening:</strong> 10 megabytes of memory, 25fps Film Festival
+
+2025-09-24 <strong>Screening:</strong> 10 megabytes of memory, Dream Sequence
 
 2025-09-21 <strong>Lecture/Screening:</strong> Earth Water Motor II, Klagenfurter Kunstfilmtage
 
@@ -28,7 +34,13 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 2025-05-16 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, art+film+vienna
 
+2025-05-09 <strong>Screening:</strong> 10 megabytes of memory, Indie Lisboa
+
+2025-05-01 <strong>Screening:</strong> 10 megabytes of memory, Kurzfilmtage Oberhausen
+
 2025-04-13 <strong>Curating:</strong> The Sound of Sweden, Filmform Screening, filmkoop wien
+
+2025-04-05 <strong>Screening:</strong> 10 megabytes of memory, Go Short
 
 2025-04-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Onion City Experimental Film Festival
 
