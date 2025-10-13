@@ -14,6 +14,8 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 2025-09-21 <strong>Lecture/Screening:</strong> Earth Water Motor II, Klagenfurter Kunstfilmtage
 
+2025-09-16 <strong>Grant:</strong> Production Grant for "24 mainframes per nanosecond", BMWKMS Federal Ministry for Arts and Culture, Austria
+
 2025-09-13 <strong>Workshop:</strong> 16mm Filmmaking, filmkoop wien
 
 2025-06-14 <strong>Workshop:</strong> 16mm Filmmaking, filmkoop wien
