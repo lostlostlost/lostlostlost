@@ -10,8 +10,27 @@ If you want to get in touch, write me a <a href="mailto:lostlostlost@posteo.net"
 
 # News
 
+2025-10-05 <strong>Workshop:</strong> Phytography, Foto Arsenal
 
-2024-04-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Onion City Experimental Film Festival
+2025-09-21 <strong>Lecture/Screening:</strong> Earth Water Motor II, Klagenfurter Kunstfilmtage
+
+2025-09-13 <strong>Workshop:</strong> 16mm Filmmaking, filmkoop wien
+
+2025-06-14 <strong>Workshop:</strong> 16mm Filmmaking, filmkoop wien
+
+2025-05-29 <strong>Screening:</strong> 10 megabytes of memory, Vienna Shorts
+
+2025-05-28 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Leiden Shorts
+
+2025-05-17 <strong>Workshop:</strong> Projector Repair Workshop, filmkoop wien
+
+2025-05-16 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, art+film+vienna
+
+2025-04-13 <strong>Curating:</strong> The Sound of Sweden, Filmform Screening, filmkoop wien
+
+2025-04-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, Onion City Experimental Film Festival
+
+2025-01-25 <strong>Screening:</strong> Into the Wild, Achteinhalb Videothek
 
 2024-12-04 <strong>Screening:</strong> The Act Of Not Seeing With One's Own Eyes, K3 Film Festival
 
