@@ -10,6 +10,8 @@ layout: page
 
 <h1> Films </h1>
 
+<strong><a href="films_objects.html">Objects in the rear mirror appear closer than they really are</a></strong>, 2025, Super8, s/w and colour, stereo, 62min <br>
+
 <strong><a href="films_blaetterimherbst2.html">Blätter im Herbst #2 (Leaves in Autumn #2)</a></strong>, 2024, 16mm, colour, silent, 3min <br>
 
 <strong><a href="films_theact.html">The Act of Not Seeing with One's Own Eyes</a></strong>, 2023, digital, colour, sound, 8min <br>
@@ -39,6 +41,12 @@ layout: page
 <strong><a href="films_silentreflections.html">Silent Reflections / Reflections on Silence #1</a></strong>, 2016, Video, colour, sound, 6min <br>
 
 <strong><a href="films_nichtorte.html">Nicht-Orte. Eine Ethnologie der Einsamkeit</a></strong>, 2015, Video, colour, German, 30min <br>
+
+# Distribution
+
+<a href="https://canyoncinema.com/catalog/filmmaker/?i=494" rel="noopener noreferrer" target="_blank">Canyon Cinema</a><br>
+CFMDC<br>
+<a href="https://lightcone.org/fr/cineaste-15263-markus-maicher" rel="noopener noreferrer" target="_blank">Light Cone</a>
 
 
 # Screenings
@@ -90,9 +98,3 @@ Under the Radar, Austria<br>
 University of Chicago, USA<br>
 Vienna Shorts Film Festival, Austria<br>
 WestLicht, Austria<br>
-
-# Distribution
-
-<a href="https://canyoncinema.com/catalog/filmmaker/?i=494" rel="noopener noreferrer" target="_blank">Canyon Cinema</a><br>
-CFMDC<br>
-<a href="https://lightcone.org/fr/cineaste-15263-markus-maicher" rel="noopener noreferrer" target="_blank">Light Cone</a>

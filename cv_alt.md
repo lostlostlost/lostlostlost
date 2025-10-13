@@ -5,44 +5,52 @@ layout: page
 
 <table>
   <tr>
-    <th style="text-align: left;">Jobs</th>
+    <th style="text-align: left;">Employment</th>
     <th></th>
   </tr>
   <tr>
     <td>Current</td>
-    <td><strong>Austrian Filmmuseum, Vienna.</strong> Film Projection, Workshops</td>
+    <td><strong>Austrian Filmmuseum, Vienna.</strong> Projection, Education</td>
   </tr>
   <tr>
     <td></td>
-    <td><strong>Viennale / Diagonale.</strong> Film Projection </td>
+    <td><strong>filmkoop wien.</strong> Board, Curation, Projection </td>
   </tr>
   <tr>
     <td></td>
-    <td><strong>Blickle Kino, Belvedere21.</strong> Film Projection </td>
+    <td><strong>Viennale.</strong> Projection </td>
   </tr>
-      <tr>
+  <tr>
     <td></td>
-    <td><strong>filmkoop wien.</strong> Co-Director </td>
+    <td><strong>Diagonale.</strong> Projection </td>
+  </tr>
+  <tr>
+    <td>2016-2020</td>
+    <td><strong>TU Vienna, Institute of Sociology.</strong> Lecturer Artistic Research</td>
+  </tr>
+  <tr>
+    <td>2016-2018</td>
+    <td><strong>VHS Film and Media Center.</strong> Lecturer</td>
   </tr>
   <tr>
     <td>2016-2017</td>
-    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Film Projection, Workshops </td>
+    <td><strong>Film Archive Austria, Metro Kinokulturhaus.</strong> Projection, Workshops </td>
   </tr>
   <tr>
     <td></td>
-    <td><strong>University of Vienna, Film and Media Studies.</strong> Lecturer Artistic Research / Film</td>
+    <td><strong>University of Vienna, Film and Media Studies.</strong> Lecturer Artistic Research</td>
   </tr>
   <tr> 
     <td></td>
     <td><strong>Freibruger Filmforum.</strong> Curator </td>
   </tr>
   <tr> 
-    <td>2012-2020</td>
-    <td><strong>TU Vienna, Institute of Sociology.</strong> University Assistant and Lecturer Artistic Research / Film </td>
+    <td>2012-2015</td>
+    <td><strong>TU Vienna, Institute of Sociology.</strong> University Assistant </td>
   </tr>
   <tr> 
     <td>2011-2012</td>
-    <td><strong>wienXtra-jugendinfo, Vienna.</strong> Artistic Director USE-IT City Map </td>
+    <td><strong>wienXtra-jugendinfo, Vienna.</strong> Project Coordination and Artistic Direction USE-IT City Map </td>
   </tr>
   <tr> 
     <td>2010-2011</td>
@@ -82,11 +90,6 @@ layout: page
     <th style="text-align: left;">Grants/Residencies</th>
     <th></th>
   </tr>
-   <tr>
-    <td>2025</td>
-    <td><strong>Production Grant for Filmmakers,</strong> "24 mainframes per nanosecond", Federal Ministry for Arts and Culture, Austria</td>
-  </tr>
-    <td></td>
   <tr>
     <td>2024</td>
     <td><strong>Working Grant for Filmmakers,</strong> Federal Ministry for Arts and Culture, Austria</td>
@@ -190,10 +193,53 @@ layout: page
   </tr>
   <tr> 
   	<td>2016</td>
-    <td><strong> Escuela Internacional de Cine y Televisión,</strong> Documentary Filmmaking Summerschool, Cuba</td>
+    <td><strong> EICTV Documentary Summer School,</strong> Cuba</td>
   </tr>
   <tr> 
   	<td></td>
     <td><strong>Ethnocineca Film Workshop,</strong> Vienna</td>
+  </tr>
+  <tr>
+  	<td>2015</td>
+    <td><strong>Videojournalism, Studio production,</strong> Okto.tv, Vienna</td>
+  </tr>
+  <tr> 
+  	<td></td>
+    <td><strong>Camera, Directing, Light, Script writing,</strong> VHS Film and Media Centre, Vienna</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th style="text-align: left;">Skills</th>
+    <th></th>
+  </tr>
+  <tr>
+  	<td>Editing</td>
+    <td><strong>Final Cut Pro X</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>Davinci Resolve</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>ffmpeg</strong></td>
+  </tr>
+  <tr>
+  	<td>Coding Basics</td>
+    <td><strong>Bash</strong></td>
+  </tr>
+  <tr>
+  	<td></td>
+    <td><strong>HTML/CSS</strong></td>
+  </tr>
+  <tr> 
+  	<td></td>
+    <td><strong>Python</strong></td>
+  </tr>
+  <tr> 
+  	<td></td>
+    <td><strong>Latex/Markdown/Pandoc</strong></td>
   </tr>
 </table>

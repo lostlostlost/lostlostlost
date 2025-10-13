@@ -3,7 +3,8 @@ layout: page
 ---
 # Seminars
 
-<strong>UE Handmade Cinema: Photochemischer Film im digitalen Zeitalter,</strong> University of Klagenfurt,  <a href="">2023W</a><br>
+<strong>UE Personal Cinema. Diaries, Notes and Sketches,</strong> University of Klagenfurt,  <a href="">2025S</a><br>
+<strong>UE Handmade Cinema. Photochemischer Film im digitalen Zeitalter,</strong> University of Klagenfurt,  <a href="">2023W</a><br>
 <strong>UE film.space.lab,</strong> TU Vienna,  <a href="https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=280472&semester=2017S&dswid=5836&dsrid=402">2017S</a>,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8100&dsrid=435&courseNr=280472&semester=2017W">2017W</a>,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8100&dsrid=549&courseNr=280537&semester=2018S">2018S</a>,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8100&dsrid=462&courseNr=280472&semester=2019S">2019S</a>,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=3165&dsrid=899&courseNr=280472&semester=2020S">2020S</a><br>
 <strong>VO film.space.theory,</strong> TU Vienna,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8100&dsrid=67&courseNr=280587&semester=2018W">2018W</a>,  <a href="https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=8100&dsrid=381&courseNr=280587&semester=2019W">2019W</a><br>
 <strong>UE Artistic Research,</strong> University of Vienna,  <a href="https://ufind.univie.ac.at/en/course.html?lv=170731&semester=2017S">2017S</a><br>
@@ -18,6 +19,8 @@ layout: page
 
 # Workshops
 
+<strong>Phytography,</strong> Foto Arsenal, 2025<br>
+<strong>16mm Filmaking,</strong> filmkoop wien, 2025<br>
 <strong>Phytography,</strong> filmkoop wien, 2024<br>
 <strong>Super8 Filmmaking,</strong> filmkoop wien, 2024<br>
 <strong>16mm Filmmaking,</strong> University of Applied Arts Vienna, 2023S<br>

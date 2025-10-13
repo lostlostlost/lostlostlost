@@ -3,6 +3,9 @@ layout: page
 ---
 # Curating
 
+<strong><a href="https://www.filmkoopwien.at/de/the-sound-of-sweden/" target="noopener noreferrer">The Sound of Sweden</a></strong>, filmkoop wien, 2025<br>
+
+
 <strong><a href="https://www.fotogaleriewien.at/ausstellung/die-gruene-kammer/" target="noopener noreferrer">Die Grüne Kammer – Alternative Prozesse und nachhaltige fotografische Praxis</a></strong>, Fotogalerie Wien, 2024<br>
 
 <strong><a href="https://www.diagonale.at/forum/" target="noopener noreferrer">Cinema Expanded</a></strong>, Diagonale Forum, 2024<br>
