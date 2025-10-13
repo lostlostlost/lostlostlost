@@ -51,6 +51,7 @@ CFMDC<br>
 
 # Screenings
 
+25fps Festival, Croatia<br>
 Alchemy Film and Moving Image Festival, Scotland <br>
 Analog Mania, Rumania <br>
 Analogica, Italy <br>
@@ -61,11 +62,13 @@ Bideodromo International Experimental Film and Video Festival, Spain<br>
 Blickle Kino, Belvedere, Austria<br>
 Bogota Experimental Film Festival, Columbia<br>
 Canyon New Acquisitions, Online<br>
+Cindependent Film Festival, USA<br>
 Cinemistica, Spain<br>
 Chicago Underground Film Festival, USA<br>
 Diagonale, Austria<br>
 DOBRA - Festival Internacional de Cinema Experimental, Brasil<br>
 dot dot dot Open Air Short Film Festival, Austria<br>
+Dream Sequence, UK<br>
 Engauge Experimental Film Festival, USA<br>
 Ethnocineca, Austria<br>
 Experimental Superstars, Serbia<br>
@@ -74,17 +77,21 @@ Festival de Sevilla, Spain <br>
 Festival ECRA, Brasil<br>
 Fracto, Germany<br>
 Freies Kino, Stadtkino Künstlerhaus, Austria<br>
+Go Short, Netherlands<br>
 Harkat 16mm Film Festival, India<br>
 Iowa City Documentary Film Festival (ICDOCS), USA<br>
 International Short Film Festival Oberhausen, Germany<br>
 Istanbul International Experimental Film Festival, Turkey<br>
 K3 Film Festival, Austria<br>
 Kinoskop – Analog Experimental Film Festival, Serbia<br>
+Klagenfurter Kunstfilmtage, Austria<br>
 Metro Kinokulturhaus, Austria<br>
 Moscow International Experimental Film Festival (MIEFF), Russia<br>
 Okto.tv, Austria<br>
+Onion City Experimental Film Festival, USA<br>
 Peripheries Experimental Film & Video Festival, USA<br>
 Process Experimental Filmfestival, Latvia<br>
+Revelation Perth International Film Festival, Australia<br>
 Revolutions per Minute Festival, USA<br>
 School Friedl Kubelka for Independent Film, Austria<br>
 Small File Media Festival, Canada<br>
@@ -96,5 +103,6 @@ Udine Film Forum, Italy<br>
 ULTRAcinema, Mexico<br>
 Under the Radar, Austria<br>
 University of Chicago, USA<br>
+Uppsala Short Film Festival, Sweden<br>
 Vienna Shorts Film Festival, Austria<br>
 WestLicht, Austria<br>
