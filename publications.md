@@ -19,10 +19,10 @@ Deleuze and the City, Edinburgh University Press, 2016.
 <strong><a href=" https://ubdata.univie.ac.at/AC10789017" rel="noopener noreferrer" target="_blank">The role of new media for community building in large housing estates</a></strong><br>
 Metropolitan regions in Europe, Hungarian Academy of Science, Budapest, 2012.
 
-<strong><a href="https://www.wohnbauforschung.at/index.php?id=446" rel="noopener noreferrer" target="_blank">Analyse von Bewohnerforen als innovatives Mittel der Wohn(bau)forschung?</a></strong><br>
-Wiener Wohnbauforschungstage, Vienna, 2011.
+# Conference Papers and Talks
 
-# Conference Papers
+<strong>From Emulsion to Algorithm. Handmade Film Practices in a Post-Digital Age</strong><br>
+Guest Lecture, University of Klagenfurt, 2024
 
 <strong>Lo-Fi, High-Contrast. Hand-made Film Ecologies and the Material Body of Analog Film</strong><br>
 Conference: Visible Evidence, Film Forum Udine, 2023
