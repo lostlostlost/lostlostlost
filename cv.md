@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Works at...
+# Works at
 
 Filmkoop Wien. Co-Director<br>
 University of Klagenfurt, Visual Culture. Lecturer Artistic Research / Film<br>
@@ -18,7 +18,7 @@ wienXtra-jugendinfo, Vienna. Artistic Director USE-IT City Map<br>
 Austrian Academy of Science. Research Assistant<br>
 
 
-# Studied at ...
+# Studied at
 
  University of Applied Arts, Institute for Media Theory, Vienna, PhD Candidate<br>
 School Friedl Kubelka for Independent Film. Vienna<br>
@@ -27,7 +27,7 @@ MA Urban Studies „4Cities“. Brussels, Copenhagen, Madrid, Vienna<br>
 BA Sociology. KF University, Graz<br>
 
 
-# Grants and Residencies...
+# Grants and Residencies
 
 Production Grant for Filmmakers, "24 mainframes per nanosecond", Federal Ministry for Arts and Culture, Austria<br>
 Working Grant for Filmmakers, Federal Ministry for Arts and Culture, Austria<br>
@@ -38,7 +38,7 @@ Artist Residency, Medienfrische Tirol<br>
 Independent Imaging Retreat, Film Farm Canada<br>
  Summer Academy Salzburg, Film as a sensitive body<br>
 
-# Workshops attended...
+# Workshops attended
 
  Baltic Analog Lab Film School, Online<br>
 No Limitations: An Exploration into Super 8 Camera Techniques, Workshop with Pablo Marin<br>
